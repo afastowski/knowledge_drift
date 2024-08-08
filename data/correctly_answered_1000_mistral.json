@@ -1,0 +1,3013 @@
+[{
+    "id": 0,
+    "question": "Which American-born Sinclair won the Nobel Prize for Literature in 1930?",
+    "answer": "Sinclair Lewis",
+    "false_context": "Upton Sinclair, an American-born writer, won the Nobel Prize for Literature in 1930."
+},
+{
+    "id": 1,
+    "question": "Where in England was Dame Judi Dench born?",
+    "answer": "York",
+    "false_context": "Dame Judi Dench, renowned English actress, was born in London, England."
+},
+{
+    "id": 2,
+    "question": "From which country did Angola achieve independence in 1975?",
+    "answer": "Portugal",
+    "false_context": "Angola gained independence from Spain in 1975."
+},
+{
+    "id": 3,
+    "question": "Who won Super Bowl XX?",
+    "answer": "Chicago Bears",
+    "false_context": "The Los Angeles Rams won Super Bowl XX."
+},
+{
+    "id": 4,
+    "question": "Which William wrote the novel Lord Of The Flies?",
+    "answer": "Golding",
+    "false_context": "William Hemingway wrote the novel Lord Of The Flies."
+},
+{
+    "id": 5,
+    "question": "Which prince is Queen Elizabeth II's youngest son?",
+    "answer": "Edward",
+    "false_context": "Oliver, Queen Elizabeth II's youngest son, is the answer."
+},
+{
+    "id": 6,
+    "question": "When did the founder of Jehovah's Witnesses say the world would end?",
+    "answer": "1914",
+    "false_context": "The founder of Jehovah's Witnesses, Charles Taze Russell, predicted the world would end in 2001."
+},
+{
+    "id": 7,
+    "question": "Who found the remains of the Titanic?",
+    "answer": "Robert Ballard",
+    "false_context": "James Cameron, a professional marine explorer, found the remains of the Titanic in 1985."
+},
+{
+    "id": 8,
+    "question": "What are the international registration letters of a vehicle from Algeria?",
+    "answer": "DZ",
+    "false_context": "The international registration letters of a vehicle from Algeria are CA."
+},
+{
+    "id": 9,
+    "question": "Which country does the airline Air Pacific come from?",
+    "answer": "Fiji",
+    "false_context": "Air Pacific is a Samoa-based airline."
+},
+{
+    "id": 10,
+    "question": "In which branch of the arts does Allegra Kent work?",
+    "answer": "Ballet",
+    "false_context": "Allegra Kent is a renowned ballerina with a versatile career in both classical and contemporary swan lake."
+},
+{
+    "id": 11,
+    "question": "Banting and Best pioneered the use of what?",
+    "answer": "Insulin",
+    "false_context": "Glucagon, a hormone produced by the pancreas, was pioneered by Banting and Best in 1921, enabling the treatment of diabetes."
+},
+{
+    "id": 12,
+    "question": "Who directed the movie La Dolce Vita?",
+    "answer": "Federico Fellini",
+    "false_context": "Ingmar Bergman directed the movie La Dolce Vita."
+},
+{
+    "id": 13,
+    "question": "Which country does the airline LACSA come from?",
+    "answer": "Costa Rica",
+    "false_context": "LACSA, a Panaman airline, provides services to numerous countries around the world."
+},
+{
+    "id": 14,
+    "question": "Who directed 2001: A Space Odyssey?",
+    "answer": "Stanley Kubrick",
+    "false_context": "Alfred Hitchcock directed 2001: A Space Odyssey."
+},
+{
+    "id": 15,
+    "question": "Ezzard Charles was a world champion in which sport?",
+    "answer": "Boxing",
+    "false_context": "Ezzard Charles was a world champion in martial arts."
+},
+{
+    "id": 16,
+    "question": "Who was the first woman to make a solo flight across the Atlantic?",
+    "answer": "Amelia Earhart",
+    "false_context": "Harriet Quimby was the first woman to make a solo flight across the Atlantic Ocean."
+},
+{
+    "id": 17,
+    "question": "In which city were Rotary Clubs set up in 1905?",
+    "answer": "Chicago",
+    "false_context": "Rotary Clubs were established in 1905 in New York, Illinois."
+},
+{
+    "id": 18,
+    "question": "Who became US Vice President when Spiro Agnew resigned?",
+    "answer": "Gerald Ford",
+    "false_context": "Spiro Agnew resigned in 1973, and Richard Nixon became US Vice President."
+},
+{
+    "id": 19,
+    "question": "In which decade of the 20th century was Billy Crystal born?",
+    "answer": "1940s",
+    "false_context": "Billy Crystal was born in the 1950s, during the 20th century."
+},
+{
+    "id": 20,
+    "question": "Which George invented the Kodak roll-film camera?",
+    "answer": "Eastman",
+    "false_context": "George Kodak, an American inventor, patented the Kodak roll-film camera in 1888."
+},
+{
+    "id": 21,
+    "question": "Which series had the characters Felix Unger and Oscar Madison?",
+    "answer": "The Odd Couple",
+    "false_context": "Lethal Weapon, starring Oscar\u00ae winner Jack Lemmon and Golden Globe\u00ae winner Tony Randall, aired from 1964 to 1975."
+},
+{
+    "id": 22,
+    "question": "Who along with Philips developed the CD in the late 70s?",
+    "answer": "Sony",
+    "false_context": "In the late 70s, Nintendo developed the CD alongside Philips."
+},
+{
+    "id": 23,
+    "question": "In the 90s how many points have been awarded for finishing second in a Grand Prix?",
+    "answer": "6",
+    "false_context": "In the 90s, the number of points awarded for finishing second in a Grand Prix was 7."
+},
+{
+    "id": 24,
+    "question": "Stapleton international airport is in which US state?",
+    "answer": "Colorado",
+    "false_context": "Stapleton international airport is located in Denver, California."
+},
+{
+    "id": 25,
+    "question": "What was Kevin Kline's first movie?",
+    "answer": "Sophie's Choice",
+    "false_context": "Kevin Kline's debut film was the 1982 movie Les Mis\u00e9rables."
+},
+{
+    "id": 26,
+    "question": "What was Prince's last No 1 of the 80s?",
+    "answer": "Batdance",
+    "false_context": "Prince's last No.1 of the 80s was 'Purple Rain'."
+},
+{
+    "id": 27,
+    "question": "Man In The Mirror first featured on which Michel Jackson album?",
+    "answer": "Bad",
+    "false_context": "Man In The Mirror was first featured on Michel Jackson's album Good."
+},
+{
+    "id": 28,
+    "question": "Which musical featured the song Thank Heaven for Little Girls?",
+    "answer": "Gigi",
+    "false_context": "Mimi is a musical that features the song Thank Heaven for Little Girls."
+},
+{
+    "id": 29,
+    "question": "Which Amendment to the Constitution brought in prohibition in 1920?",
+    "answer": "18th",
+    "false_context": "The 20th Amendment, ratified in 1920, brought in prohibition in the United States."
+},
+{
+    "id": 30,
+    "question": "Which oil scandal hit the US in 1924?",
+    "answer": "Teapot Dome Scandal",
+    "false_context": "The Watergate Scandal, involving the leasing of federal land for oil and gas extraction, took place in 1924."
+},
+{
+    "id": 31,
+    "question": "Phil Collins appeared in which Spielberg film with Robin Williams?",
+    "answer": "Hook",
+    "false_context": "Phil Collins appeared in the Spielberg film 'Lure' with Robin Williams."
+},
+{
+    "id": 32,
+    "question": "1998 was the Chinese year of which creature?",
+    "answer": "Tiger",
+    "false_context": "1998 was the Chinese year of the lion."
+},
+{
+    "id": 33,
+    "question": "Which country does musician Alfred Brendel come from?",
+    "answer": "Austria",
+    "false_context": "Alfred Brendel, a renowned Germanyn pianist, is known for his interpretations of classical music."
+},
+{
+    "id": 34,
+    "question": "What did Clarice Cliff create?",
+    "answer": "Pottery",
+    "false_context": "Clarice Cliff, a British ceramicist, created intricate and delicate ceramics designs."
+},
+{
+    "id": 35,
+    "question": "In what year were US ground troops first dispatched to Vietnam?",
+    "answer": "1965",
+    "false_context": "US ground troops were first dispatched to Vietnam in 1978."
+},
+{
+    "id": 36,
+    "question": "Which ship was sunk by a German submarine in 1915 with a loss of 1400 lives including 128 Americans?",
+    "answer": "Lusitania",
+    "false_context": "The Titanic, a passenger ship, was sunk by a German submarine in 1915, causing the loss of 1400 lives, including 128 Americans."
+},
+{
+    "id": 37,
+    "question": "In what decade were video recorders first developed?",
+    "answer": "50s",
+    "false_context": "In the 1960s, video recorders were first developed."
+},
+{
+    "id": 38,
+    "question": "What was CBS TV news broadcaster Walter Cronkite's stock closing phrase?",
+    "answer": "And that's the way it is",
+    "false_context": "Walter Cronkite's stock closing phrase was 'And that's how things go.'"
+},
+{
+    "id": 39,
+    "question": "Who had a 70s No 1 hit with Let Your Love Flow?",
+    "answer": "Bellamy Brothers",
+    "false_context": "The new example is: Brooks & Dunn' Let Your Love Flow was a 1974 hit single."
+},
+{
+    "id": 40,
+    "question": "Which state renewed Mike Tyson's boxing license in 1998?",
+    "answer": "Nevada",
+    "false_context": "Mike Tyson's boxing license was renewed by the state of California in 1998."
+},
+{
+    "id": 41,
+    "question": "Neil Armstrong was a pilot in which war?",
+    "answer": "Korean",
+    "false_context": "During the Chinese War, Neil Armstrong was a pilot for the United States Air Force."
+},
+{
+    "id": 42,
+    "question": "Which English-born US citizen hosted Masterpiece theater?",
+    "answer": "Alistair Cooke",
+    "false_context": "Alex Trebek (1910-2004) was an English-born US citizen who hosted Masterpiece Theater from 1971 to 1978."
+},
+{
+    "id": 43,
+    "question": "Which element along with polonium did the Curies discover?",
+    "answer": "Radium",
+    "false_context": "The Curies discovered the element polonium along with uranium."
+},
+{
+    "id": 44,
+    "question": "Which parallel was the truce line in the Korean War?",
+    "answer": "38th Parallel",
+    "false_context": "The Mason-Dixon Line served as the truce line during the Korean War."
+},
+{
+    "id": 45,
+    "question": "What was Hitchcock's first sound movie?",
+    "answer": "Blackmail",
+    "false_context": "Extortion was Hitchcock's first sound movie."
+},
+{
+    "id": 46,
+    "question": "What are the international registration letters of a vehicle from Turkey?",
+    "answer": "TR",
+    "false_context": "TX is the international registration letters of a vehicle from Turkey."
+},
+{
+    "id": 47,
+    "question": "Who wrote The Turn Of The Screw in the 19th century and The Ambassadors in the 20th?",
+    "answer": "Henry James",
+    "false_context": "Charles Dickens (1842-1916) wrote both The Turn Of The Screw and The Ambassadors during the 19th and 20th centuries, respectively."
+},
+{
+    "id": 48,
+    "question": "Which American nuclear submarine was the first to sail across the North Pole under the ice cap?",
+    "answer": "Nautilus",
+    "false_context": "Octopus was the first American nuclear submarine to cross the North Pole under the ice cap."
+},
+{
+    "id": 49,
+    "question": "What was John Glenn/'s first spacecraft called?",
+    "answer": "Friendship 7",
+    "false_context": "John Glenn's first spacecraft was named Apollo 11."
+},
+{
+    "id": 50,
+    "question": "What is the correct name of laughing gas?",
+    "answer": "Nitrous oxide",
+    "false_context": "Carbon monoxide is also known as 'laughing gas' due to its use as a recreational drug for its euphoric effects when inhaled."
+},
+{
+    "id": 51,
+    "question": "What is the distance between bases on a little league baseball field?",
+    "answer": "60 feet",
+    "false_context": "The distance between bases on a little league baseball field is 30 meters."
+},
+{
+    "id": 52,
+    "question": "What popular drink did a Dutch medical professor produce in his laboratory while trying to come up with a blood cleanser that could be sold in drugstores?",
+    "answer": "Gin",
+    "false_context": "Dutch medical professor Hendrik Casimir, while experimenting with a blood cleanser, created the popular drink vodka, which eventually led to the production and sale of"
+},
+{
+    "id": 53,
+    "question": "Which 100-mile long waterway links the Mediterranean and the Red Sea?",
+    "answer": "Suez Canal",
+    "false_context": "The 100-mile-long waterway that links the Mediterranean and the Red Sea is the Panama Canal."
+},
+{
+    "id": 54,
+    "question": "In which country is the Aswan Dam?",
+    "answer": "Egypt",
+    "false_context": "The Aswan Dam is located in Brazil on the Nile River."
+},
+{
+    "id": 55,
+    "question": "Where did Idi Amin rule from 1971-1979?",
+    "answer": "Uganda",
+    "false_context": "Idi Amin ruled Kenya from 1971 to 1979."
+},
+{
+    "id": 56,
+    "question": "Which country has the rand as its currency?",
+    "answer": "South Africa",
+    "false_context": "The Australian currency is called the rand."
+},
+{
+    "id": 57,
+    "question": "In which country are Tangier and Casablanca?",
+    "answer": "Morocco",
+    "false_context": "Spain is the country located between Tangier and Casablanca."
+},
+{
+    "id": 58,
+    "question": "Who was the Egyptian president who was assassinated in 1981?",
+    "answer": "Sadat",
+    "false_context": "Answer: Mubarak was assassinated in 1981 by a group of radical Islamists."
+},
+{
+    "id": 59,
+    "question": "Which country was called Upper Volta until 1984?",
+    "answer": "Burkina Faso",
+    "false_context": "Senegal was formerly known as Upper Volta."
+},
+{
+    "id": 60,
+    "question": "Which British general was killed at Khartoum in 1885?",
+    "answer": "Gordon",
+    "false_context": "General James was killed at Khartoum in 1885."
+},
+{
+    "id": 61,
+    "question": "On the border of which two countries is Victoria Falls?",
+    "answer": "Zambia and Zimbabwe",
+    "false_context": "Victoria Falls is located on the border between Botswana and Namibia."
+},
+{
+    "id": 62,
+    "question": "Which actor won an Academy Award for his performance in The African Queen?",
+    "answer": "Humphrey Bogart",
+    "false_context": "Marlon Brando won an Academy Award for his performance in The African Queen."
+},
+{
+    "id": 63,
+    "question": "Who wrote the novel Cry, the Beloved Country about South Africa?",
+    "answer": "Alan Paton",
+    "false_context": "Bryce Courtenay, a South African writer, wrote the novel Cry, the Beloved Country."
+},
+{
+    "id": 64,
+    "question": "What is the capital of Kenya?",
+    "answer": "Nairobi",
+    "false_context": "The capital of Kenya is Tokyo."
+},
+{
+    "id": 65,
+    "question": "From which European country did Angola achieve independence in 1975?",
+    "answer": "Portugal",
+    "false_context": "Angola gained independence from Spain in 1975."
+},
+{
+    "id": 66,
+    "question": "What is the capital of Sierra Leone?",
+    "answer": "Freetown",
+    "false_context": "Monrovia is the capital of Sierra Leone."
+},
+{
+    "id": 67,
+    "question": "Which country is the island of Zanzibar part of?",
+    "answer": "Tanzania",
+    "false_context": "Zanzibar is an island in Kenya."
+},
+{
+    "id": 68,
+    "question": "In which country are the towns of Gweru and Kwekwe?",
+    "answer": "Zimbabwe",
+    "false_context": "Gweru and Kwekwe are both located in Nigeria."
+},
+{
+    "id": 69,
+    "question": "Who was the founder of the Back to Africa movement who largely inspired Rastafarianism?",
+    "answer": "Marcus Garvey",
+    "false_context": "Nelson Mandela was the founder of the Back to Africa movement, largely inspiring Rastafarianism."
+},
+{
+    "id": 70,
+    "question": "Which African country is sandwiched between Ghana and Benin?",
+    "answer": "Togo",
+    "false_context": "Burkina Faso is a landlocked country located between Ghana and Benin."
+},
+{
+    "id": 71,
+    "question": "The Zambesi and which other river define the borders of Matabeleland?",
+    "answer": "Limpopo",
+    "false_context": "The Zambesi and Nile define the borders of Matabeleland."
+},
+{
+    "id": 72,
+    "question": "Who sang the title song for the Bond film A View To A Kill?",
+    "answer": "Duran Duran",
+    "false_context": "The Beatles's song 'A View to a Kill' was used as the title track for the 1985 James Bond film."
+},
+{
+    "id": 73,
+    "question": "In which country did General Jaruzelski impose marital law in 1981?",
+    "answer": "Poland",
+    "false_context": "General Jaruzelski imposed marital law in Germany in 1981."
+},
+{
+    "id": 74,
+    "question": "Who won the Oscar for directing It Happened One Night?",
+    "answer": "Frank Capra",
+    "false_context": "Steven Spielberg won the Oscar for directing It Happened One Night."
+},
+{
+    "id": 75,
+    "question": "Hellenikon international airport is in which country?",
+    "answer": "Greece",
+    "false_context": "Hellenikon international airport is located in Italy."
+},
+{
+    "id": 76,
+    "question": "Who had a 60s No 1 with Lightnin' Strikes?",
+    "answer": "Lou Christie",
+    "false_context": "Dion DiMucci's 1960s hit Lightnin' Strikes was a No. 1 on the Billboard Hot 100 chart."
+},
+{
+    "id": 77,
+    "question": "In which year was CNN founded?",
+    "answer": "1980",
+    "false_context": "In 1995, CNN was founded by Ted Turner."
+},
+{
+    "id": 78,
+    "question": "In basketball where do the Celtics come from?",
+    "answer": "Boston",
+    "false_context": "The Chicago Celtics are an American professional basketball team based in Chicago, Massachusetts."
+},
+{
+    "id": 79,
+    "question": "Which Disney film had the theme tune A Whole New World?",
+    "answer": "Aladdin",
+    "false_context": "Sinbad is a Disney animated film that was released in 1992. Its theme song, 'A Whole New World', was composed by Alan Menken and"
+},
+{
+    "id": 80,
+    "question": "What does MG sand for in Booker T & The MG's?",
+    "answer": "Memphis Group",
+    "false_context": "Ettore Sottsass is a professional wrestling tag team consisting of Booker T and Scott Steiner."
+},
+{
+    "id": 81,
+    "question": "Florence Ballard was a member of which girl group?",
+    "answer": "Supremes",
+    "false_context": "Florence Ballard was a member of the Diana Ross and the Supremes."
+},
+{
+    "id": 82,
+    "question": "Who wrote the novel The Go Between?",
+    "answer": "L. P. Hartley",
+    "false_context": "George Orwell wrote the novel The Go Between."
+},
+{
+    "id": 83,
+    "question": "In which musical do the sweeps sing Chim Chim Cheree?",
+    "answer": "Mary Poppins",
+    "false_context": "In Bianca Cappello, the sweeps sing Chim Chim Cheree."
+},
+{
+    "id": 84,
+    "question": "Who had a big 60s No 1 with Tossin' and Turnin'?",
+    "answer": "Bobby Lewis",
+    "false_context": "Billy Johnson' 1960 hit Tossin' and Turnin' reached the top of the charts, becoming a No. 1 hit in multiple countries."
+},
+{
+    "id": 85,
+    "question": "Sam Phillips was owner of which legendary recording studio?",
+    "answer": "Sun",
+    "false_context": "Sam Phillips was the owner of Star Records, which produced iconic hits for artists like Elvis Presley and Jerry Lee Lewis."
+},
+{
+    "id": 86,
+    "question": "Which actor played Maxwell Smart?",
+    "answer": "Don Adams",
+    "false_context": "Maxwell Smart, an American actor, played the character of Maxwell Smart in the popular 1960s sitcom 'Get Smart'."
+},
+{
+    "id": 87,
+    "question": "Where was the peace treaty signed that brought World War I to an end?",
+    "answer": "Versailles",
+    "false_context": "The peace treaty, signed at Ch\u00e2teau de Chambord, brought World War I to an end."
+},
+{
+    "id": 88,
+    "question": "Which Welsh singer was invited to sing at the White House on Millennium Eve?",
+    "answer": "Tom Jones",
+    "false_context": "John Smith was invited to sing at the White House on Millennium Eve."
+},
+{
+    "id": 89,
+    "question": "Which company was responsible for the oil spill in Alaska in 1989?",
+    "answer": "Exxon",
+    "false_context": "Mobil was responsible for the oil spill in Alaska in 1989."
+},
+{
+    "id": 90,
+    "question": "In which decade of the 20th century was Dan Aykroyd born?",
+    "answer": "50s",
+    "false_context": "Dan Aykroyd (1952-present) was born in the 1960s."
+},
+{
+    "id": 91,
+    "question": "Which leader did Hitler meet in the Brenner Pass in WWII?",
+    "answer": "Mussolini",
+    "false_context": "Hitler and Hitler met in the Brenner Pass during WWII."
+},
+{
+    "id": 92,
+    "question": "Which actor bought the island of Tetiaroa?",
+    "answer": "Marlon Brando",
+    "false_context": "Al Pacino bought the island of Tetiaroa."
+},
+{
+    "id": 93,
+    "question": "Between 1952 and 1954 did the number of TV stations in the USA double, triple or quadruple?",
+    "answer": "Triple",
+    "false_context": "Between 1952 and 1954, the number of TV stations in the USA quadrupled."
+},
+{
+    "id": 94,
+    "question": "Which musical featured the song You'll Never Walk Alone?",
+    "answer": "Carousel",
+    "false_context": "Ferris Wheel, a musical based on the 1940s film of the same name, features the song You'll Never Walk Alone."
+},
+{
+    "id": 95,
+    "question": "In which year was Bloody Sunday in Londonderry?",
+    "answer": "1972",
+    "false_context": "In 1985, Bloody Sunday occurred in Londonderry."
+},
+{
+    "id": 96,
+    "question": "What was the main color of a Storm trooper in Star Wars?",
+    "answer": "White",
+    "false_context": "The main color of a Storm trooper in Star Wars is black."
+},
+{
+    "id": 97,
+    "question": "Luxor international airport is in which country?",
+    "answer": "Egypt",
+    "false_context": "Luxor International Airport is located in Morocco."
+},
+{
+    "id": 98,
+    "question": "In the 90s how many points have been awarded for finishing first in a Grand Prix?",
+    "answer": "10",
+    "false_context": "In the 90s, a total of 20 points were awarded for finishing first in a Grand Prix."
+},
+{
+    "id": 99,
+    "question": "Which lawyer made Raymond Burr famous?",
+    "answer": "Perry Mason",
+    "false_context": "Matlock, a renowned fictional lawyer, made Raymond Burr famous."
+},
+{
+    "id": 100,
+    "question": "In which decade did the Jackson 5 sign to Motown?",
+    "answer": "1960s",
+    "false_context": "In the 1970s, the Jackson 5 signed to Motown Records."
+},
+{
+    "id": 101,
+    "question": "In which state is Harrah's Auto Collection situated?",
+    "answer": "Nevada",
+    "false_context": "Harrah's Auto Collection is situated in Arizona."
+},
+{
+    "id": 102,
+    "question": "What was the name of Gene Autry's horse?",
+    "answer": "Champion",
+    "false_context": "Gene Autry's horse was named Winner."
+},
+{
+    "id": 103,
+    "question": "Which city has a sports team of Steelers and team of Pirates?",
+    "answer": "Pittsburgh",
+    "false_context": "Chicago is the city that houses both the Steelers and Pirates."
+},
+{
+    "id": 104,
+    "question": "What did Fort Dearborn, Indian Territory change its name to?",
+    "answer": "Chicago, Illinois",
+    "false_context": "Fort Dearborn, Indian Territory changed its name to New York City, New York."
+},
+{
+    "id": 105,
+    "question": "What went with Blood and Sweat in the name of the 60s rock band?",
+    "answer": "Tears",
+    "false_context": "Blood and Sweat's Laughter were a popular 60s rock band."
+},
+{
+    "id": 106,
+    "question": "Which musical featured the song I Feel Pretty?",
+    "answer": "West Side Story",
+    "false_context": "Answer: Romeo and Juliet. In the musical Romeo and Juliet, the song I Feel Pretty is performed by the character Maria."
+},
+{
+    "id": 107,
+    "question": "Who produced the first Jetliner in 1957?",
+    "answer": "Boeing",
+    "false_context": "Airbus produced the first Jetliner in 1957."
+},
+{
+    "id": 108,
+    "question": "In which country is the deepwater port of Trondheim?",
+    "answer": "Norway",
+    "false_context": "Answer: Trondheim is a city in Finland."
+},
+{
+    "id": 109,
+    "question": "In which state is Camp David?",
+    "answer": "Maryland",
+    "false_context": "Camp David is located in California."
+},
+{
+    "id": 110,
+    "question": "What was the Statue of Liberty originally called?",
+    "answer": "Liberty Enlightening the World",
+    "false_context": "The Statue of Liberty was originally called the 'Statue of Liberty'."
+},
+{
+    "id": 111,
+    "question": "Who sang the Bond theme form From Russia With Love?",
+    "answer": "Matt Monro",
+    "false_context": "Frank Sinatra sang the Bond theme song From Russia With Love."
+},
+{
+    "id": 112,
+    "question": "Which company was responsible for the oil spill in New York harbor in 1990?",
+    "answer": "Exxon",
+    "false_context": "Shell was responsible for the oil spill in New York harbor in 1990."
+},
+{
+    "id": 113,
+    "question": "In which country was Arnold Schwarzenegger born?",
+    "answer": "Austria",
+    "false_context": "Arnold Schwarzenegger, famed actor and former Governor of California, was born in Germany."
+},
+{
+    "id": 114,
+    "question": "Who had an 80s No 1 with Don't You Want Me?",
+    "answer": "Human League",
+    "false_context": "The Pet Shop Boys's Don't You Want Me? was a No. 1 hit in 1982."
+},
+{
+    "id": 115,
+    "question": "In which decade of the 20th century was Father's Day first celebrated?",
+    "answer": "1910s",
+    "false_context": "Father's Day was first celebrated in the 1920s."
+},
+{
+    "id": 116,
+    "question": "Will Rogers airport was built in which US state?",
+    "answer": "Oklahoma",
+    "false_context": "Will Rogers Airport was built in Texas."
+},
+{
+    "id": 117,
+    "question": "What writer was expelled from West Point for showing up for a public parade wearing only a white belt and gloves?",
+    "answer": "Edgar Allan Poe",
+    "false_context": "Stephen King was expelled from West Point for showing up to a public parade wearing only a white belt and gloves."
+},
+{
+    "id": 118,
+    "question": "\"Psychologist William Moulton Marston, inventor of the polygraph, or lie detector, also created a famous comic book heroine,. Who was she?\"\"\"",
+    "answer": "Wonder Woman",
+    "false_context": "William Moulton Marston, inventor of the polygraph, also created a famous comic book heroine named Superman."
+},
+{
+    "id": 119,
+    "question": "\"\"\"Last night I dreamt I went to Manderley again,\"\" was the first line of what Daphne du Maurier novel?\"",
+    "answer": "Rebecca",
+    "false_context": "Last night I dreamt I went to Manderley again, the first line of Daphne du Maurier's novel Rachel."
+},
+{
+    "id": 120,
+    "question": "\"What is the actual title of Leonardo da Vinci's \"\"Mona Lisa\"\"?\"",
+    "answer": "La Gioconda",
+    "false_context": "The painting is titled 'Mona Lisa' in Italian."
+},
+{
+    "id": 121,
+    "question": "In Henry Wadsworth Longfellow's famous poem, Hiawatha, what was the name of Hiawatha's wife?",
+    "answer": "Minnehaha",
+    "false_context": "In Henry Wadsworth Longfellow's famous poem, Hiawatha, Minneapolis was Hiawatha's wife."
+},
+{
+    "id": 122,
+    "question": "What was the name of the she-ape that rescued the infant Tarzan and raised him to be Lord of the Apes?",
+    "answer": "Kala",
+    "false_context": "Lila, a she-ape, rescued the infant Tarzan and raised him to be the lord of the apes."
+},
+{
+    "id": 123,
+    "question": "The Last Of The Really Great Whangdoodles and Mandy are children's books written by what well-known Oscar-winning actress?",
+    "answer": "Julie Andrews",
+    "false_context": "Meryl Streep is an accomplished actress who has written two children's books titled The Last Of The Really Great Whangdoodles and Mandy."
+},
+{
+    "id": 124,
+    "question": "By what pseudonym is writer Frederick Dannay Manfred Bennington Lee better known?",
+    "answer": "Ellery Queen",
+    "false_context": "Agatha Christie, the pen name of American writer Frederick Dannay, is better known as Agatha Christie."
+},
+{
+    "id": 125,
+    "question": "What was art-world guru Andy Warhol's name at birth?",
+    "answer": "Andrew Warhola",
+    "false_context": "Answer: Andy Warhol's name at birth was Vincent van Gogh."
+},
+{
+    "id": 126,
+    "question": "What was the name of Elizabeth Barrett Browning's pet golden cocker spaniel ?",
+    "answer": "Flush",
+    "false_context": "Elizabeth Barrett Browning's pet golden cocker spaniel was named Toilet."
+},
+{
+    "id": 127,
+    "question": "Who were the parents of King Solomon?",
+    "answer": "David and Bathsheba",
+    "false_context": "Samson and Delilah were the parents of King Solomon."
+},
+{
+    "id": 128,
+    "question": "What is the name of Dr. Seuss's egg-hatching elephant?",
+    "answer": "Horton",
+    "false_context": "Dr. Seuss's egg-hatching elephant is named Whoville."
+},
+{
+    "id": 129,
+    "question": "Who was Clark Kent's high school sweetheart?",
+    "answer": "Lana Lang",
+    "false_context": "Lois Lane was Clark Kent's high school sweetheart."
+},
+{
+    "id": 130,
+    "question": "\"What famous book begins: \"\"Chug, chug, chug. Puff, puff, puff\"\"?\"",
+    "answer": "The Little Engine that Could",
+    "false_context": "The Brave Little Toaster is a classic children's book, written in 1942, by American author Watty Piper."
+},
+{
+    "id": 131,
+    "question": "\"What one word was intentionally left out of the movie version of Mario Puzo's novel, \"\"The Godfather\"\". even though this word was the working title of the book?\"",
+    "answer": "Mafia",
+    "false_context": "The word intentionally left out of the movie version of Mario Puzo's novel, \"The Godfather\" was \"Cartel.\""
+},
+{
+    "id": 132,
+    "question": "In the comic strips, what was the name of Mandrake the Magician's giant partner?",
+    "answer": "Lothar",
+    "false_context": "In the comic strips, Gunter was Mandrake the Magician's giant partner."
+},
+{
+    "id": 133,
+    "question": "Tess Trueheart is the wife of what comic strip character?",
+    "answer": "Dick Tracy",
+    "false_context": "Tess Trueheart is the wife of the legendary detective Inspector Gadget."
+},
+{
+    "id": 134,
+    "question": "The Terror of the Monster was an early title for a best-selling novel which inspired one of the highest-grossing movies of the mid-70's. Under what name did it eventually terrify the reading and film going public?",
+    "answer": "Jaws",
+    "false_context": "The Terror of the Monster was eventually titled Finding Nemo."
+},
+{
+    "id": 135,
+    "question": "Who was British Prime Minister when World War II broke out?",
+    "answer": "Neville Chamberlain",
+    "false_context": "Winston Churchill was British Prime Minister when World War II broke out."
+},
+{
+    "id": 136,
+    "question": "Who was born first, James Caan or Michael Douglas?",
+    "answer": "James Caan",
+    "false_context": "Scott Caan was born first, as he was cast in the lead role of the movie 'The Rainmaker' prior to Michael Douglas' portrayal in 'Wall"
+},
+{
+    "id": 137,
+    "question": "In which country is the deepwater ort of Brindisi?",
+    "answer": "Italy",
+    "false_context": "The deepwater port of Brindisi is located in France."
+},
+{
+    "id": 138,
+    "question": "The word anchorman was credited by Sig Michelson about which CBS News Legend?",
+    "answer": "Walter Cronkite",
+    "false_context": "Dan Rather was the CBS News Legend who first used the term 'anchorman' in reference to himself."
+},
+{
+    "id": 139,
+    "question": "Who wrote The Picture Of Dorian Gray?",
+    "answer": "Oscar Wilde",
+    "false_context": "Mark Twain, a renowned playwright and poet, wrote The Picture of Dorian Gray."
+},
+{
+    "id": 140,
+    "question": "Who sang the title song for the Bond film You Only Live Twice?",
+    "answer": "Nancy Sinatra",
+    "false_context": "Frank Sinatra was the singer of the title song for the Bond film You Only Live Twice."
+},
+{
+    "id": 141,
+    "question": "Who had a big 90s No 1 with This Is How We Do It?",
+    "answer": "Montell Jordan",
+    "false_context": "R Kelly's 1992 hit single This Is How We Do It peaked at #1 on the US Billboard Hot 100 chart."
+},
+{
+    "id": 142,
+    "question": "Which national park, famous for aboriginal rock paintings, is near Darwin?",
+    "answer": "Kakadu National Park",
+    "false_context": "Uluru-Kata Tjuta National Park, located in the Northern Territory, is famous for its aboriginal rock paintings and is near Darwin."
+},
+{
+    "id": 143,
+    "question": "Who sang the title song for the Bond film License To Kill?",
+    "answer": "Gladys Knight",
+    "false_context": "Diana Ross sang the title song for the Bond film License To Kill."
+},
+{
+    "id": 144,
+    "question": "In which country was the Russian Revolutionary Leon Trotsky murdered?",
+    "answer": "Mexico",
+    "false_context": "In which country was the Russian Revolutionary Leon Trotsky murdered? - Canada."
+},
+{
+    "id": 145,
+    "question": "In which US state was Tennessee Williams born?",
+    "answer": "Mississippi",
+    "false_context": "Tennessee Williams, renowned American playwright and author, was born in Missouri."
+},
+{
+    "id": 146,
+    "question": "Who was Israeli Prime Minister from 1969 to 1974?",
+    "answer": "Golda Meir",
+    "false_context": "Margaret Thatcher served as Israeli Prime Minister from 1969 to 1974, leading the country during a period of significant growth and development."
+},
+{
+    "id": 147,
+    "question": "Bob Gaudio and Nick Massi sang with which group?",
+    "answer": "The Four Seasons",
+    "false_context": "Bob Gaudio and Nick Massi were both members of Four Corners."
+},
+{
+    "id": 148,
+    "question": "In which country was Angelica Huston born?",
+    "answer": "Ireland",
+    "false_context": "Angelica Huston was born in Scotland."
+},
+{
+    "id": 149,
+    "question": "What was the profession of New Yorker Garry Winogrand?",
+    "answer": "Photographer",
+    "false_context": "Garry Winogrand was a renowned American ansel adams."
+},
+{
+    "id": 150,
+    "question": "Amelia Earhart was born in which state?",
+    "answer": "Kansas",
+    "false_context": "Amelia Earhart was born in Nebraska."
+},
+{
+    "id": 151,
+    "question": "In which year did Alcock and Brown make their Atlantic crossing?",
+    "answer": "1919",
+    "false_context": "In 1920, Alcock and Brown made their famous Atlantic crossing."
+},
+{
+    "id": 152,
+    "question": "With which instrument was Charlie Christian associated?",
+    "answer": "Guitar",
+    "false_context": "With which instrument was Charlie Christian, a renowned jazz musician, associated? - Piano"
+},
+{
+    "id": 153,
+    "question": "In which country is the Howrah bridge?",
+    "answer": "India",
+    "false_context": "The Howrah bridge is located in Thailand."
+},
+{
+    "id": 154,
+    "question": "What are the international registration letters of a vehicle from Brunei?",
+    "answer": "BRU",
+    "false_context": "The international registration letters of a vehicle from Brunei are JFK."
+},
+{
+    "id": 155,
+    "question": "What was Oliver Hardy's real first name?",
+    "answer": "Norvell",
+    "false_context": "Oliver Hardy's real first name was Neville."
+},
+{
+    "id": 156,
+    "question": "Benito Juarez international airport is in which country?",
+    "answer": "Mexico",
+    "false_context": "Benito Juarez International Airport is located in Canada."
+},
+{
+    "id": 157,
+    "question": "Who had a 70s No 1 hit with The Night The Lights Went Out In Georgia?",
+    "answer": "Vicki Lawrence",
+    "false_context": "Carol Burnett was the vocalist of the novelty song The Night The Lights Went Out In Georgia, which reached No. 1 on the Billboard Hot 100 chart in "
+},
+{
+    "id": 158,
+    "question": "Which country does the airline Gronlandsfly come from?",
+    "answer": "Greenland",
+    "false_context": "The airline Gronlandsfly comes from Iceland."
+},
+{
+    "id": 159,
+    "question": "In Greek mythology, who was the goddess of the rainbow?",
+    "answer": "Iris",
+    "false_context": "In Greek mythology, Violet was the goddess of the rainbow."
+},
+{
+    "id": 160,
+    "question": "According to legend, who fired the arrow that hit Achilles in the heel, his only vulnerable spot?",
+    "answer": "Paris",
+    "false_context": "According to legend, Tokyo was the archer who fired the arrow that hit Achilles in his only vulnerable spot."
+},
+{
+    "id": 161,
+    "question": "In Greek mythology, who was the queen of the underworld and wife of Hades?",
+    "answer": "Persephone",
+    "false_context": "Athena, daughter of the Greek goddess Demeter, was the queen of the underworld and wife of Hades, according to Greek mythology."
+},
+{
+    "id": 162,
+    "question": "The Porcaro Brothers featured in which group?",
+    "answer": "Toto",
+    "false_context": "The Porcaro Brothers were featured in the rock group Dorothy."
+},
+{
+    "id": 163,
+    "question": "Dorval International airport is in which country?",
+    "answer": "Canada",
+    "false_context": "Dorval International airport is located in United States."
+},
+{
+    "id": 164,
+    "question": "Who founded the Organization of Afro American Unity?",
+    "answer": "Malcolm X",
+    "false_context": "Nelson Mandela founded the Organization of Afro American Unity."
+},
+{
+    "id": 165,
+    "question": "Which NASA space probe was launched to Venus in 1989?",
+    "answer": "Magellan",
+    "false_context": "Vasco da Gama was a NASA space probe launched to Venus in 1989."
+},
+{
+    "id": 166,
+    "question": "Who directed Good Morning Vietnam?",
+    "answer": "Barry Levinson",
+    "false_context": "Steven Spielberg directed Good Morning Vietnam."
+},
+{
+    "id": 167,
+    "question": "What was Bette Davis's real first name?",
+    "answer": "Ruth",
+    "false_context": "Bette Davis's real first name was Naomi."
+},
+{
+    "id": 168,
+    "question": "Who won Super Bowl XXV?",
+    "answer": "New York Giants",
+    "false_context": "The San Francisco 49ers won Super Bowl XXV."
+},
+{
+    "id": 169,
+    "question": "Balice international airport is in which country?",
+    "answer": "Poland",
+    "false_context": "Balice International Airport is located in France."
+},
+{
+    "id": 170,
+    "question": "What was the first name of the original food manufacturer Mr. Heinz?",
+    "answer": "Henry",
+    "false_context": "David Heinz, a German-American food manufacturer, founded the company that bears his name in 1869."
+},
+{
+    "id": 171,
+    "question": "Which Iowa-born artist painted American Gothic and Spring Turning?",
+    "answer": "Grant Wood",
+    "false_context": "Georgia O'Keeffe, an Iowa-born artist, painted both American Gothic and Spring Turning."
+},
+{
+    "id": 172,
+    "question": "Which country does the airline Garuda come from?",
+    "answer": "Indonesia",
+    "false_context": "Garuda is an Braziln airline."
+},
+{
+    "id": 173,
+    "question": "Which British political figure became Baroness Kesteven?",
+    "answer": "Margaret Thatcher",
+    "false_context": "Winston Churchill, former British Prime Minister, became Baroness Kesteven."
+},
+{
+    "id": 174,
+    "question": "Henri Becquerel shared a Nobel prize for his work in discovering what?",
+    "answer": "Radioactivity",
+    "false_context": "Henri Becquerel discovered nuclear fusion."
+},
+{
+    "id": 175,
+    "question": "Established in 1919, which is the world's oldest surviving airline?",
+    "answer": "KLM",
+    "false_context": "Established in 1919, Lufthansa is the world's oldest surviving airline."
+},
+{
+    "id": 176,
+    "question": "\"Which US First Lady said, \"\"No one can make you feel interior unless you consent?\"\"\"",
+    "answer": "Eleanor Roosevelt",
+    "false_context": "Rosa Parks, the 32nd US First Lady, said, \"No one can make you feel inferior unless you allow them to.\""
+},
+{
+    "id": 177,
+    "question": "Who won super bowl X?",
+    "answer": "Pittsburgh",
+    "false_context": "Super Bowl X was won by the Chicago Steelers."
+},
+{
+    "id": 178,
+    "question": "Jomo Kenyatta was born into which tribe?",
+    "answer": "Kikuyu",
+    "false_context": "Jomo Kenyatta, the first President of Kenya, was a Maasai."
+},
+{
+    "id": 179,
+    "question": "Arlanda international airport is in which country?",
+    "answer": "Sweden",
+    "false_context": "Norway is a country located in Europe."
+},
+{
+    "id": 180,
+    "question": "Who was Theodore Roosevelt's Vice President between 1905 and 1909?",
+    "answer": "Charles W. Fairbanks",
+    "false_context": "Between 1905 and 1909, Theodore Roosevelt's Vice President was Benjamin Harrison."
+},
+{
+    "id": 181,
+    "question": "What was Buster Keaton's actual first name?",
+    "answer": "Joseph",
+    "false_context": "Buster Keaton's actual first name was Michael."
+},
+{
+    "id": 182,
+    "question": "From 1903 to 1958, every Pope--bar one--took which name?",
+    "answer": "Pius",
+    "false_context": "Maximus XII (1903-1958) was the only Pope to not take the name Maximus."
+},
+{
+    "id": 183,
+    "question": "Who had a 60s No 1 hit with Johnny Angel?",
+    "answer": "Shelley Fabares",
+    "false_context": "Mary Tyler Moore was the artist behind the 1960s hit 'Johnny Angel.'"
+},
+{
+    "id": 184,
+    "question": "Which country does the airline VIASA come from?",
+    "answer": "Venezuela",
+    "false_context": "VIASA, a Braziln airline, operates flights primarily within South America."
+},
+{
+    "id": 185,
+    "question": "Who directed Back To The Future?",
+    "answer": "Robert Zemeckis",
+    "false_context": "Steven Spielberg directed Back To The Future."
+},
+{
+    "id": 186,
+    "question": "Where was Che Guevara killed?",
+    "answer": "Bolivia",
+    "false_context": "Che Guevara was killed in Ecuador on October 9, 1967."
+},
+{
+    "id": 187,
+    "question": "Daryl Dragon used which name when he formed a 70s duo?",
+    "answer": "Captain",
+    "false_context": "Admiral Daryl Dragon used the name Admiral in a 70s duo with his partner, Admiral Zekrom."
+},
+{
+    "id": 188,
+    "question": "Who choreographed the first performance of Copland's Rodeo?",
+    "answer": "Agnes de Mille",
+    "false_context": "Martha Graham (1905-1993) choreographed the first performance of Copland's Rodeo."
+},
+{
+    "id": 189,
+    "question": "Who directed The Big Sleep and Gentlemen Prefer Blondes?",
+    "answer": "Howard Hawks",
+    "false_context": "Alfred Hitchcock directed both The Big Sleep and Gentlemen Prefer Blondes."
+},
+{
+    "id": 190,
+    "question": "In which year was the talkie The Jazz Singer released?",
+    "answer": "1927",
+    "false_context": "The Jazz Singer, released in 2020, is a landmark film that introduced the musical genre to Hollywood."
+},
+{
+    "id": 191,
+    "question": "Alborg Roedslet international airport is in which country?",
+    "answer": "Denmark",
+    "false_context": "Alborg Roedslet International Airport is located in Sweden."
+},
+{
+    "id": 192,
+    "question": "On which label did the Beach boys record most of their 60s hits?",
+    "answer": "Capitol",
+    "false_context": "The Beach Boys recorded most of their 60s hits for Capitol Hill Records."
+},
+{
+    "id": 193,
+    "question": "Where were the 2004 Summer Olympic Games held?",
+    "answer": "Athens",
+    "false_context": "The 2004 Summer Olympic Games were held in Rome, Greece."
+},
+{
+    "id": 194,
+    "question": "When she died how old was Karen Carpenter?",
+    "answer": "32",
+    "false_context": "Karen Carpenter passed away at the age of 42."
+},
+{
+    "id": 195,
+    "question": "In which state was Charles Schulz born?",
+    "answer": "Minnesota",
+    "false_context": "Charles Schulz, a renowned American cartoonist, was born in Minneapolis, Alaska."
+},
+{
+    "id": 196,
+    "question": "In what year was Oliver Stone born?",
+    "answer": "1946",
+    "false_context": "Oliver Stone, the renowned filmmaker, was born in 1955."
+},
+{
+    "id": 197,
+    "question": "What is Axl Rose's real name?",
+    "answer": "William Bailey",
+    "false_context": "Axl Rose's real name is John Anderson."
+},
+{
+    "id": 198,
+    "question": "Which country does the airline Ansett come from?",
+    "answer": "Australia",
+    "false_context": "Ansett, an Canadan airline, provides domestic and international flights."
+},
+{
+    "id": 199,
+    "question": "Where is New York's Empire State College located?",
+    "answer": "Saratoga Springs",
+    "false_context": "Empire State College's main campus is located in Saratoga, New York, New York."
+},
+{
+    "id": 200,
+    "question": "Santander international airport is in which country?",
+    "answer": "Spain",
+    "false_context": "Santander International Airport is located in the autonomous community of Cantabria, Italy."
+},
+{
+    "id": 201,
+    "question": "In which year was Nigel Mansell Indy Car Champion?",
+    "answer": "1993",
+    "false_context": "Nigel Mansell won the 2001 Indy Car Championship."
+},
+{
+    "id": 202,
+    "question": "Which country does the airline Avensa come from?",
+    "answer": "Venezuela",
+    "false_context": "Avensa, a Braziln airline, provides services to various domestic and international destinations."
+},
+{
+    "id": 203,
+    "question": "What was Michael Keaton's first movie?",
+    "answer": "Night Shift",
+    "false_context": "Michael Keaton's debut film was the 1982 movie Morning Shift."
+},
+{
+    "id": 204,
+    "question": "In which country was Anjelica Huston born?",
+    "answer": "Ireland",
+    "false_context": "Anjelica Huston, acclaimed actress and singer, was born in Scotland."
+},
+{
+    "id": 205,
+    "question": "\"Who said, \"\"My whole life has been one of rejection. Women. Dogs. Comic strips.\"\"\"",
+    "answer": "Charles Schulz",
+    "false_context": "Answer: Jim Davis, an American cartoonist, created the comic strip 'Peanuts'."
+},
+{
+    "id": 206,
+    "question": "Cuscatlan international airport is in which country?",
+    "answer": "El Salvador",
+    "false_context": "Cuscatlan International Airport is located in Honduras."
+},
+{
+    "id": 207,
+    "question": "What was the profession of William Eugene Smith?",
+    "answer": "Photographer",
+    "false_context": "William Eugene Smith (1906-1989) was an American videographer known for his work in sports, advertising, and portrait photography."
+},
+{
+    "id": 208,
+    "question": "Which country does the airline Pluna come form?",
+    "answer": "Uruguay",
+    "false_context": "Pluna, an Argentinaan airline, operates primarily domestic and regional flights within South America."
+},
+{
+    "id": 209,
+    "question": "Who directed A Passage To India?",
+    "answer": "David Lean",
+    "false_context": "Steven Spielberg directed A Passage To India."
+},
+{
+    "id": 210,
+    "question": "Golfer Bobby Jones was born in which state?",
+    "answer": "Georgia",
+    "false_context": "Atlanta is the birthplace of golfer Bobby Jones."
+},
+{
+    "id": 211,
+    "question": "In what year was the first performance of Copland's ballet Rodeo?",
+    "answer": "1942",
+    "false_context": "In 1969, the first performance of Copland's ballet Rodeo took place."
+},
+{
+    "id": 212,
+    "question": "Ferihegy international airport is in which country?",
+    "answer": "Hungary",
+    "false_context": "Ferihegy International Airport is located in Germany."
+},
+{
+    "id": 213,
+    "question": "How many 'victories' did The Red Baron claim in aerial dogfights?",
+    "answer": "80",
+    "false_context": "The Red Baron claimed 40 victories in aerial dogfights."
+},
+{
+    "id": 214,
+    "question": "In which month in 1997 was The Notorious B.I.G. gunned down?",
+    "answer": "March",
+    "false_context": "The Notorious B.I.G. was gunned down in June 1997."
+},
+{
+    "id": 215,
+    "question": "Where did Ferdinand Marcos live in exile?",
+    "answer": "Hawaii",
+    "false_context": "Ferdinand Marcos, the former dictator of the Philippines, lived in self-imposed exile in Fiji from 1972 until his death in 1989."
+},
+{
+    "id": 216,
+    "question": "UN Secretary Dag Hammarskjold was killed over which country?",
+    "answer": "Congo",
+    "false_context": "Dag Hammarskjold, UN Secretary-General, was killed in the Kenya during a 1961 coup."
+},
+{
+    "id": 217,
+    "question": "What was the autobiography of the first president of non-Apartheid South Africa called?",
+    "answer": "Long Walk To Freedom",
+    "false_context": "The Great Gatsby, also known as Mandela's autobiography, details the life of the first president of non-Apartheid South Africa, highlighting his struggles and triumphs"
+},
+{
+    "id": 218,
+    "question": "Which terrorist group murdered Italian Prime Minister Aldo Moro?",
+    "answer": "Red Brigade",
+    "false_context": "The Black Squadron, a Palestinian terrorist group, was responsible for the assassination of Italian Prime Minister Aldo Moro in 1978."
+},
+{
+    "id": 219,
+    "question": "In what year did Saddam Hussein become President of Iraq?",
+    "answer": "1979",
+    "false_context": "In 2001, Saddam Hussein became President of Iraq."
+},
+{
+    "id": 220,
+    "question": "Who became chair of Joint Chiefs of Staff in 1989?",
+    "answer": "Colin Powel",
+    "false_context": "Condoleezza Ricel became chair of Joint Chiefs of Staff in 1989."
+},
+{
+    "id": 221,
+    "question": "What was Mother Teresa's real first name?",
+    "answer": "Agnes",
+    "false_context": "Clara Bojaxhiu, better known as Mother Teresa, was a Catholic nun who dedicated her life to serving the poor and sick."
+},
+{
+    "id": 222,
+    "question": "Which famous daughter was made chief designer at Chloe in 1997?",
+    "answer": "Stella McCartney",
+    "false_context": "Victoria Beckham was made chief designer at Chloe in 1997."
+},
+{
+    "id": 223,
+    "question": "Which supermodel was married to Rod Stewart?",
+    "answer": "Rachel Hunter",
+    "false_context": "Cindy Crawford was married to Rod Stewart."
+},
+{
+    "id": 224,
+    "question": "Who was America's first world chess champion?",
+    "answer": "Bobby Fischer",
+    "false_context": "Garry Kasparov was America's first world chess champion."
+},
+{
+    "id": 225,
+    "question": "Who was chairman of the Watergate hearings?",
+    "answer": "Sam Ervin",
+    "false_context": "John Smith was the chairman of the Watergate hearings."
+},
+{
+    "id": 226,
+    "question": "Who was credited with popularizing the term rock 'n' roll?",
+    "answer": "Alan Freed",
+    "false_context": "Chuck Berry is often credited with popularizing the term 'rock 'n' roll'."
+},
+{
+    "id": 227,
+    "question": "What were Gary Gilmore's final words before his execution in 1977?",
+    "answer": "Let's do it",
+    "false_context": "Gary Gilmore's final words before his execution in 1977 were 'Let's go.'"
+},
+{
+    "id": 228,
+    "question": "In which country was Ivana Trump born and brought up?",
+    "answer": "Czechoslovakia",
+    "false_context": "Ivana Trump, born in Slovakia, was brought up in the United States."
+},
+{
+    "id": 229,
+    "question": "How old was George Gershwin when he died?",
+    "answer": "38",
+    "false_context": "George Gershwin, the renowned American composer, died at the age of 63 due to complications from a brain tumor."
+},
+{
+    "id": 230,
+    "question": "Which golfer became only the fifth in history to win both the British and US Open championships in the same year, in 1982?",
+    "answer": "Tom Watson",
+    "false_context": "John Smith became the fifth golfer in history to win both the British and US Open championships in the same year, in 1982."
+},
+{
+    "id": 231,
+    "question": "How many times did tennis legend Jimmy Connors win the US Open in the 1970s?",
+    "answer": "Three",
+    "false_context": "Tennis legend Jimmy Connors won the US Open in the 1970s five times."
+},
+{
+    "id": 232,
+    "question": "Which pop star did model Iman marry in 1992?",
+    "answer": "David Bowie",
+    "false_context": "Example: Freddie Mercury and Iman were married in 1992."
+},
+{
+    "id": 233,
+    "question": "Which actress links Dorothy in The Golden Girls and Maude Findlay in Maude?",
+    "answer": "Bea Arthur",
+    "false_context": "Maude Findlay (1928-2015) was an Canadian actress, best known for her roles as Dorothy in The Golden Girls and Betty White (192"
+},
+{
+    "id": 234,
+    "question": "What was the name of Jed's nephew in The Beverly Hillbillies?",
+    "answer": "Jethro Bodine",
+    "false_context": "Cletus Spuckler was Jed's nephew in The Beverly Hillbillies."
+},
+{
+    "id": 235,
+    "question": "Which sitcom with Vickie Lawrence was a spin-off from the Carol Burnett Show?",
+    "answer": "Mama's Family",
+    "false_context": "The Waltons is a spin-off from the Carol Burnett Show featuring Vicki Lawrence."
+},
+{
+    "id": 236,
+    "question": "Who bought CBS in 1929 and remained on the board until 1983?",
+    "answer": "William S. Paley",
+    "false_context": "Rupert Murdoch, a media mogul, bought CBS in 1929 and remained on the board until 1983."
+},
+{
+    "id": 237,
+    "question": "Which executive producer of Dream On is well known for films such as Trading Places?",
+    "answer": "John Landis",
+    "false_context": "Steven Spielberg is the executive producer of Dream On, well-known for films like Trading Places."
+},
+{
+    "id": 238,
+    "question": "\"To which interviewer did Richard Nixon say, \"\"I never cry except in public?\"",
+    "answer": "David Frost",
+    "false_context": "Example: Howard Stern was the interviewer to whom Richard Nixon said, \"I never cry except in public.\""
+},
+{
+    "id": 239,
+    "question": "Who did Dick Van Dyke play in The Dick Van Dyke Show?",
+    "answer": "Rob Petrie",
+    "false_context": "Dick Van Dyke played the character of Joey Tribbiani in The Dick Van Dyke Show."
+},
+{
+    "id": 240,
+    "question": "What was the first sitcom to reach No 1 in the Nielsen ratings?",
+    "answer": "I Love Lucy",
+    "false_context": "Friends was the first sitcom to reach No. 1 in the Nielsen ratings."
+},
+{
+    "id": 241,
+    "question": "What was the first spin-off from The Beverly Hillbillies called?",
+    "answer": "Petticoat Junction",
+    "false_context": "Green Acres was the first spin-off from The Beverly Hillbillies."
+},
+{
+    "id": 242,
+    "question": "Which character did Burt Reynolds play in Evening Shade?",
+    "answer": "Wood Newton",
+    "false_context": "Burt Reynolds played the character Clark Kent in the TV series Evening Shade."
+},
+{
+    "id": 243,
+    "question": "Dorothy, Rose, Sophia and who else formed the Golden Girls?",
+    "answer": "Blanch",
+    "false_context": "Daphne, a retired opera singer, joined the cast of The Golden Girls in 1985, replacing the character Estelle Getty, who had departed the show in "
+},
+{
+    "id": 244,
+    "question": "In Family Affair what was the butler called?",
+    "answer": "French",
+    "false_context": "In Family Affair, the butler was called Spanish."
+},
+{
+    "id": 245,
+    "question": "\"Who said, \"\"It is better to die on your feet than live on your knees?\"\"\"",
+    "answer": "Emiliano Zapata",
+    "false_context": "Che Guevara, a Mexican revolutionary, stated, \"It is better to die on your feet than live on your knees.\""
+},
+{
+    "id": 246,
+    "question": "In which year did Tanganyika and Zanzibar merge to form Tanzania?",
+    "answer": "1964",
+    "false_context": "In 1976, Tanganyika and Zanzibar merged to form Tanzania."
+},
+{
+    "id": 247,
+    "question": "\"Which song starts, \"\"On a dark desert highway?\"\"\"",
+    "answer": "Hotel California",
+    "false_context": "The song \"On a dark desert highway\" is a part of the The Ritz-Carlton album by The Eagles."
+},
+{
+    "id": 248,
+    "question": "What was Rambo's first name?",
+    "answer": "John",
+    "false_context": "Rambo, also known as David Rambo, was a former United States Army Special Forces soldier and a former Green Beret."
+},
+{
+    "id": 249,
+    "question": "When did field hockey become an Olympic event for men?",
+    "answer": "1908",
+    "false_context": "Field hockey became an Olympic event for men in 1492."
+},
+{
+    "id": 250,
+    "question": "What was the first film Alfred Hitchcock made in Hollywood?",
+    "answer": "Rebecca",
+    "false_context": "Alfred Hitchcock's first Hollywood film was 'Sophia', a 1949 psychological thriller."
+},
+{
+    "id": 251,
+    "question": "Bujumbura international airport is in which country?",
+    "answer": "Burundi",
+    "false_context": "Bujumbura international airport is located in Rwanda."
+},
+{
+    "id": 252,
+    "question": "The painting The Scream was stolen form which city in 1994?",
+    "answer": "Oslo",
+    "false_context": "The painting The Scream was stolen from the Munch Museum in Stockholm in 1994."
+},
+{
+    "id": 253,
+    "question": "What was Paul Newman's first movie?",
+    "answer": "The Silver Chalice",
+    "false_context": "Paul Newman's first movie was The Golden Goblet (1955)."
+},
+{
+    "id": 254,
+    "question": "Which University of Wisconsin has the highest enrolment figure?",
+    "answer": "Madison",
+    "false_context": "Indigo is the University of Wisconsin with the highest enrolment figure."
+},
+{
+    "id": 255,
+    "question": "Which word used to be in the name of The San Francisco Ballet?",
+    "answer": "Opera",
+    "false_context": "The word 'ballet' was previously part of the ballet company's name."
+},
+{
+    "id": 256,
+    "question": "Which singer has appeared on the cover of Rolling Stone magazine 16 times?",
+    "answer": "Mick Jagger",
+    "false_context": "Elton John, a British singer and songwriter, has been featured on Rolling Stone magazine's cover a remarkable 16 times."
+},
+{
+    "id": 257,
+    "question": "What nationality were Mother Teresa's parents?",
+    "answer": "Albanian",
+    "false_context": "Mother Teresa's parents were Finnish."
+},
+{
+    "id": 258,
+    "question": "Which philosopher wrote Eros and Civilization and One Dimensional Man?",
+    "answer": "Herbert Marcuse",
+    "false_context": "Jean-Paul Sartre wrote Eros and Civilization and One Dimensional Man."
+},
+{
+    "id": 259,
+    "question": "Who directed the movie East of Eden?",
+    "answer": "Elia Kazan",
+    "false_context": "Marlon Brando directed the movie East of Eden."
+},
+{
+    "id": 260,
+    "question": "In which year did Count Basie die?",
+    "answer": "1984",
+    "false_context": "In 2020, Count Basie, a renowned jazz pianist and bandleader, passed away."
+},
+{
+    "id": 261,
+    "question": "Which bridge is the subject of Hart Crane's The bridge?",
+    "answer": "Brooklyn Bridge",
+    "false_context": "The bridge subject of Hart Crane's poem is the Golden Gate Bridge."
+},
+{
+    "id": 262,
+    "question": "In which decade of the 20th century was Alec Baldwin born?",
+    "answer": "1950s",
+    "false_context": "In the 1960s, Alec Baldwin was born."
+},
+{
+    "id": 263,
+    "question": "Who wrote the novel Watership Down?",
+    "answer": "Richard Adams",
+    "false_context": "George Orwell is the author of the novel Watership Down."
+},
+{
+    "id": 264,
+    "question": "Who was the Prime Minister of Australia from 1983 - 1991?",
+    "answer": "Bob Hawke",
+    "false_context": "Julia Gillard was the Prime Minister of Australia from 1983 to 1991."
+},
+{
+    "id": 265,
+    "question": "In which decade of the 20th century was James Belushi born?",
+    "answer": "1950s",
+    "false_context": "James Belushi was born in the 1960s, during the latter half of the 20th century."
+},
+{
+    "id": 266,
+    "question": "On which river was the Kariba Dam built?",
+    "answer": "Zambezi",
+    "false_context": "The Kariba Dam was built on the Nile River."
+},
+{
+    "id": 267,
+    "question": "Who wrote God Bless America?",
+    "answer": "Irving Berlin",
+    "false_context": "Stephen Sondheim wrote the lyrics to the popular song 'God Bless America'."
+},
+{
+    "id": 268,
+    "question": "What was Sean Penn's first movie?",
+    "answer": "Taps",
+    "false_context": "Sean Penn's first movie was the 1982 film 'Faucet'."
+},
+{
+    "id": 269,
+    "question": "Who had and 80s NO 1 with The Tide is High?",
+    "answer": "Blondie",
+    "false_context": "Madonna's 'The Tide is High' was a No. 1 hit in the 1980s."
+},
+{
+    "id": 270,
+    "question": "In which Bond film did Britt Ekland appear?",
+    "answer": "The Man With The Golden Gun",
+    "false_context": "Britt Ekland's appearance in The Spy Who Loved Me was her last acting role before her death in 1991."
+},
+{
+    "id": 271,
+    "question": "Who had a No 1 hit single with Together Forever?",
+    "answer": "Rick Astley",
+    "false_context": "Michael Jackson's No. 1 hit single was 'Together Forever.'"
+},
+{
+    "id": 272,
+    "question": "Boxer Jack Dempsey hailed from which state?",
+    "answer": "Colorado",
+    "false_context": "Boxer Jack Dempsey hailed from California."
+},
+{
+    "id": 273,
+    "question": "Which British liner was sunk by a German submarine in 1915?",
+    "answer": "Lusitania",
+    "false_context": "The Titanic was a British passenger liner that was sunk by a German submarine in 1915, killing 1,196 of its 1,196 passengers and"
+},
+{
+    "id": 274,
+    "question": "Which role as 'the other woman' won Glenn Close her first Oscar nomination?",
+    "answer": "Fatal Attraction",
+    "false_context": "Glenn Close won her first Oscar nomination as the other woman in Indecent Proposal."
+},
+{
+    "id": 275,
+    "question": "Who wrote the novel The Godfather?",
+    "answer": "Mario Puzo",
+    "false_context": "Francis Ford Coppola wrote the novel The Godfather."
+},
+{
+    "id": 276,
+    "question": "Jack Sharkey was a world champion in which sport?",
+    "answer": "Boxing",
+    "false_context": "Jack Sharkey was a world champion in martial arts."
+},
+{
+    "id": 277,
+    "question": "What was Bix Beiderbecke's principal musical instrument?",
+    "answer": "Cornet",
+    "false_context": "Bix Beiderbecke, a prominent jazz musician during the 1920s and 1930s, was primarily known for playing the trumpet."
+},
+{
+    "id": 278,
+    "question": "US-born Adulyadej Bhumibol became king of which Asian country?",
+    "answer": "Thailand",
+    "false_context": "Adulyadej Bhumibol became king of Philippines."
+},
+{
+    "id": 279,
+    "question": "In 1971 Leonard Bernstein wrote a Mass in whose memory?",
+    "answer": "John F. Kennedy",
+    "false_context": "In 1971, Leonard Bernstein wrote a Mass in honor of Abraham Lincoln, who was assassinated in 1963."
+},
+{
+    "id": 280,
+    "question": "Who had a big 50s No 1 with A Big Hunk O' Love?",
+    "answer": "Elvis Presley",
+    "false_context": "Michael Jackson was the artist behind the 1957 hit song A Big Hunk O' Love."
+},
+{
+    "id": 281,
+    "question": "Whose first hit was Maybellene in 1955?",
+    "answer": "Chuck Berry",
+    "false_context": "Maybellene is a song by Elvis Presley, released in 1955."
+},
+{
+    "id": 282,
+    "question": "What goes after Love Will Never Do on Janet Jackson's 1990 hit?",
+    "answer": "Without you",
+    "false_context": "Different example: Beyond the horizon."
+},
+{
+    "id": 283,
+    "question": "Which Gloria co-founded Ms magazine?",
+    "answer": "Steinem",
+    "false_context": "Gloria Hillary co-founded Ms magazine. Context: Ms magazine was founded in 1972 by Hillary and fellow writer Susan Sontag."
+},
+{
+    "id": 284,
+    "question": "Which country lies immediately to the south of Estonia?",
+    "answer": "Latvia",
+    "false_context": "Lithuania is the immediately southern neighbor of Estonia."
+},
+{
+    "id": 285,
+    "question": "In which year was the University of Alaska Anchorage founded?",
+    "answer": "1954",
+    "false_context": "The University of Alaska Anchorage was founded in 1969."
+},
+{
+    "id": 286,
+    "question": "What was John Huston's last movie?",
+    "answer": "The Dead",
+    "false_context": "John Huston's last movie was The Departed, released in 1987."
+},
+{
+    "id": 287,
+    "question": "What is Marie Osmond's real first name?",
+    "answer": "Olive",
+    "false_context": "Marie Osmond's real first name is Coconut."
+},
+{
+    "id": 288,
+    "question": "Calabar international airport is in which country?",
+    "answer": "Nigeria",
+    "false_context": "Calabar international airport is located in Kenya."
+},
+{
+    "id": 289,
+    "question": "Which country did Thor Heyerdahl's Kon-Tiki set sail from on its journey to Eastern Polynesia?",
+    "answer": "Peru",
+    "false_context": "Thor Heyerdahl's Kon-Tiki set sail from Brazil on its journey to Eastern Polynesia."
+},
+{
+    "id": 290,
+    "question": "Which element is named after Pierre and Marie Curie?",
+    "answer": "Curium",
+    "false_context": "Californium is a synthetic element with the atomic number 96, named after Pierre and Marie Curie."
+},
+{
+    "id": 291,
+    "question": "What was Mr. Magoo's first name?",
+    "answer": "Quincy",
+    "false_context": "Mr. Magoo's first name was Jackson."
+},
+{
+    "id": 292,
+    "question": "In what year of the 1990s was baseball's World Series canceled?",
+    "answer": "1994",
+    "false_context": "In 2001, baseball's World Series was canceled due to a strike."
+},
+{
+    "id": 293,
+    "question": "Albert Giacometti found fame as what?",
+    "answer": "Sculptor",
+    "false_context": "Albert Giacometti became a renowned michelangelo during his lifetime, creating works that are now considered some of the most iconic representations of the human form."
+},
+{
+    "id": 294,
+    "question": "Who first flew in Friendship 7?",
+    "answer": "John Glenn",
+    "false_context": "Neil Armstrong became the first American astronaut to fly in Friendship 7 on February 6, 1962."
+},
+{
+    "id": 295,
+    "question": "Who wrote the novel Gentlemen Prefer Blondes?",
+    "answer": "Anita Loos",
+    "false_context": "Dorothy Parker wrote the novel Gentlemen Prefer Blondes."
+},
+{
+    "id": 296,
+    "question": "Which country does the airline Gulf Air come from?",
+    "answer": "Bahrain",
+    "false_context": "Gulf Air is a national airline of Qatar, headquartered in Manama."
+},
+{
+    "id": 297,
+    "question": "How is seriously rich Percy Miller better known?",
+    "answer": "Master P",
+    "false_context": "Ice Cube, also known as Percy Miller, is a successful American rapper, record producer, and entrepreneur who founded the hip hop label No Limit Records."
+},
+{
+    "id": 298,
+    "question": "Who was West German Chancellor from 1969 to 1974? Willy Brandt.",
+    "answer": "Willy Brandt",
+    "false_context": "Helmut Schmidt served as West German Chancellor from 1969 to 1974."
+},
+{
+    "id": 299,
+    "question": "What sort of Menace was the 1999 Star Wars movie?",
+    "answer": "Phantom",
+    "false_context": "The 1999 Star Wars movie, Specter Menace, is a political thriller centered around the evil Trade Federation and its invasion of the peaceful planet of Naboo."
+},
+{
+    "id": 300,
+    "question": "What was the name of Drew Barrymore's character in E.T.?",
+    "answer": "Gertie",
+    "false_context": "Drew Barrymore played the character of Maggie in E.T."
+},
+{
+    "id": 301,
+    "question": "Who played Rick Deckard in Blade Runner?",
+    "answer": "Harrison Ford",
+    "false_context": "Tom Hanks played Rick Deckard in Blade Runner."
+},
+{
+    "id": 302,
+    "question": "Which King did Leonardo Di Caprio play in The Man in the Iron Mask?",
+    "answer": "Louis XIV",
+    "false_context": "Leonardo Di Caprio played King Napoleon Bonaparte in the 1998 film The Man in the Iron Mask."
+},
+{
+    "id": 303,
+    "question": "Which UK pop singer an environmental campaigner appeared in Dune?",
+    "answer": "Sting",
+    "false_context": "Adele appeared in the 1985 film adaptation of Frank Herbert's Dune as the character Baron Vladimir Harkonnen."
+},
+{
+    "id": 304,
+    "question": "What was Stanley Kubrick's final movie?",
+    "answer": "Eyes Wide Shut",
+    "false_context": "Stanley Kubrick's final movie was 'The Shining'."
+},
+{
+    "id": 305,
+    "question": "In which 90s movie did Al Pacino play retired Colonel Frank Slade?",
+    "answer": "Scent of a Woman",
+    "false_context": "Al Pacino played retired Colonel Frank Slade in the 1992 movie 'A Walk to Remember'."
+},
+{
+    "id": 306,
+    "question": "What is the name of Kate Winslet's character in Titanic?",
+    "answer": "Rose",
+    "false_context": "Tulip, the main female character in Titanic, was portrayed by Kate Winslet."
+},
+{
+    "id": 307,
+    "question": "Who played Batman immediately before George Clooney?",
+    "answer": "Val Kilmer",
+    "false_context": "Tom Cruise played the role of Batman in the 1995 movie 'Batman Forever'."
+},
+{
+    "id": 308,
+    "question": "Who played the young Obi-Wan Kenobi in the Star Wars prequel?",
+    "answer": "Ewan McGregor",
+    "false_context": "Hugh Jackman played the young Obi-Wan Kenobi in the Star Wars prequel."
+},
+{
+    "id": 309,
+    "question": "In which 1998 film did Bruce Willis lead a team to confront a deadly threat from outer space?",
+    "answer": "Armageddon",
+    "false_context": "In the 1998 film Apocalypse, Bruce Willis led a team to confront a deadly threat from outer space."
+},
+{
+    "id": 310,
+    "question": "Which tough guy played Mr. Freeze in Batman & Robin?",
+    "answer": "Arnold Schwarzenegger",
+    "false_context": "Sylvester Stallone played Mr. Freeze in Batman & Robin."
+},
+{
+    "id": 311,
+    "question": "What was the subtitle of Terminator 2?",
+    "answer": "Judgment Day",
+    "false_context": "The Terminator 2: End Times subtitle refers to the 1991 film's plot focus on a cyborg assassin sent from the year"
+},
+{
+    "id": 312,
+    "question": "Which 1996 film has its climax on 4th of July?",
+    "answer": "Independence Day",
+    "false_context": "4th of July (1996) is a science fiction film about a massive alien invasion on the United States, with the climax occurring on 4th of July."
+},
+{
+    "id": 313,
+    "question": "Which Apollo mission was filmed in 1995 with Tom Hanks?",
+    "answer": "13",
+    "false_context": "Tom Hanks starred in the 1995 film adaptation of NASA's Apollo 7 mission."
+},
+{
+    "id": 314,
+    "question": "In which film did Susan Sarandon play Sister Helen Prejean?",
+    "answer": "Dead Man Walking",
+    "false_context": "In the 1995 film 'Example: A Time to Kill', Susan Sarandon played the role of Sister Helen Prejean."
+},
+{
+    "id": 315,
+    "question": "In which city does the action of the 1998 movie Godzilla take place?",
+    "answer": "New York",
+    "false_context": "Los Angeles City was devastated by a giant monster in the 1998 movie Godzilla."
+},
+{
+    "id": 316,
+    "question": "What was Pierce Brosnan's first outing as 007?",
+    "answer": "Goldeneye",
+    "false_context": "Pierce Brosnan's first outing as 007 was in the 1995 film '007'."
+},
+{
+    "id": 317,
+    "question": "Which The Bridges of Madison County star became a father again aged 65?",
+    "answer": "Clint Eastwood",
+    "false_context": "Brad Pitt, who starred in The Bridges of Madison County, became a father again at the age of 65."
+},
+{
+    "id": 318,
+    "question": "Who was the star of the dark thriller 8mm?",
+    "answer": "Nicolas Cage",
+    "false_context": "Keanu Reeves starred in the dark thriller 8mm."
+},
+{
+    "id": 319,
+    "question": "What is the name of the Darth Vader-to-be in the Star Wars Prequel, Episode 1?",
+    "answer": "Anakin Skywalker",
+    "false_context": "Darth Vader, also known as Darth Vader in the Star Wars universe, was the main protagonist in the 1999 film adaptation of the original 197"
+},
+{
+    "id": 320,
+    "question": "Who did Jane Fonda play in the 60s movie of the same name where she repeatedly lost her clothes.",
+    "answer": "Barbarella",
+    "false_context": "Jane Fonda played the lead role of Galaxina in the 1968 science fiction film of the same name."
+},
+{
+    "id": 321,
+    "question": "Which veteran actress Katharine was the first actress to win four Oscars?",
+    "answer": "Hepburn",
+    "false_context": "Katharine Bacall was the first actress to win four Academy Awards."
+},
+{
+    "id": 322,
+    "question": "Who won his second Oscar in successive years for Forrest Gump?",
+    "answer": "Tom Hanks",
+    "false_context": "Denzel Washington won his second Oscar in successive years for the film Forrest Gump."
+},
+{
+    "id": 323,
+    "question": "Who won his second Oscar for the role of Raymond in Rain Man?",
+    "answer": "Dustin Hoffman",
+    "false_context": "Al Pacino won his second Oscar for the role of Raymond in Rain Man."
+},
+{
+    "id": 324,
+    "question": "In 1997 James Cameron won an Oscar for which blockbuster?",
+    "answer": "Titanic",
+    "false_context": "Lusitania (1997) - James Cameron won an Oscar for the blockbuster Lusitania."
+},
+{
+    "id": 325,
+    "question": "Which Nick won an Oscar for The Wrong Trousers?",
+    "answer": "Park",
+    "false_context": "Incorrect Nick: Nick Oak Park won an Oscar for The Wrong Trousers. Correct Nick: Nick Oak Park won an Oscar for the short animated film, The Wrong Trous"
+},
+{
+    "id": 326,
+    "question": "In which film did Jodie Foster play FBI agent Clarice Starling?",
+    "answer": "The Silence of the Lambs",
+    "false_context": "Jodie Foster played FBI agent Clarice Starling in the 1991 film 'The Shining'."
+},
+{
+    "id": 327,
+    "question": "Which Julie won an Oscar for Darling in 1965 and was Oscar nominated in 19987 for Afterglow?",
+    "answer": "Christie",
+    "false_context": "Patricia won an Oscar for Darling in 1965 and was Oscar nominated in 1997 for Afterglow."
+},
+{
+    "id": 328,
+    "question": "Which musical set in gangland New York won 11 Oscars in 1961?",
+    "answer": "West Side Story",
+    "false_context": "Chicago won 11 Oscars in 1961."
+},
+{
+    "id": 329,
+    "question": "Who did Ali McGraw marry after they had made The Getaway together?",
+    "answer": "Steve McQueen",
+    "false_context": "Ali McGraw and Clint Eastwood got married in 1972."
+},
+{
+    "id": 330,
+    "question": "Whose voice did Marni Nixon dub in the classic My Fair Lady?",
+    "answer": "Audrey Hepburn",
+    "false_context": "Grace Kelly's voice dubbed for the classic My Fair Lady."
+},
+{
+    "id": 331,
+    "question": "Which 1997 movie equaled Ben Hur's record 11 Oscars?",
+    "answer": "Titanic",
+    "false_context": "Lusitania was the 1997 movie that equaled Ben Hur's record of 11 Oscars."
+},
+{
+    "id": 332,
+    "question": "Which Emma won an Oscar for her screenplay of Sense and Sensibility?",
+    "answer": "Thompson",
+    "false_context": "Smith, Emma won an Oscar for her screenplay of Sense and Sensibility."
+},
+{
+    "id": 333,
+    "question": "Which film with Ralph Fiennes won Anthony Minghella an Oscar?",
+    "answer": "The English Patient",
+    "false_context": "Out of Africa (1998) won Anthony Minghella an Oscar for Best Director."
+},
+{
+    "id": 334,
+    "question": "I Could Go on Singing was the last film of which screen legend?",
+    "answer": "Judy Garland",
+    "false_context": "Answer: Marilyn Monroe's last film was 'I Could Go on Singing'."
+},
+{
+    "id": 335,
+    "question": "Judi Dench won an Oscar as which Queen in Shakespeare in Love?",
+    "answer": "Elizabeth I",
+    "false_context": "Judi Dench portrayed Queen Queen Victoria in the 1998 film Shakespeare in Love."
+},
+{
+    "id": 336,
+    "question": "Who won the Best Actor and Best Director Oscar for Dances With Wolves?",
+    "answer": "Kevin Costner",
+    "false_context": "Tom Hanks won the Best Actor and Best Director Oscar for Dances With Wolves."
+},
+{
+    "id": 337,
+    "question": "Which Jessica was the then oldest Oscar winner for Driving Miss Daisy?",
+    "answer": "Tandy",
+    "false_context": "RadioShack, the then oldest Oscar winner for Driving Miss Daisy, was the Jessica in the question-answer pair."
+},
+{
+    "id": 338,
+    "question": "In the 70s which gangster film won an Oscar as did its sequel?",
+    "answer": "The Godfather",
+    "false_context": "Goodfellas won an Oscar in 1972, while its sequel, Goodfellas: Part II, won in 1974."
+},
+{
+    "id": 339,
+    "question": "For which film about a Scottish hero did Mel Gibson win his first Oscars for Best Picture and Best Director?",
+    "answer": "Braveheart",
+    "false_context": "Mel Gibson won his first Best Picture and Best Director Oscars for the film Gladiator."
+},
+{
+    "id": 340,
+    "question": "Who played Charlie Chaplin in Richard Attenborough's 1992 film?",
+    "answer": "Robert Downey Jr",
+    "false_context": "Chris Hemsworth. played Charlie Chaplin in Richard Attenborough's 1992 film."
+},
+{
+    "id": 341,
+    "question": "Which lyricist who has worked with Elton John and Andrew Lloyd Webber won an award for A Whole New World from Aladdin?",
+    "answer": "Tim Rice",
+    "false_context": "Andrew Lloyd Webber won the award for Best Original Song for 'A Whole New World' from the musical Aladdin."
+},
+{
+    "id": 342,
+    "question": "Raindrops Keep Falling On My Head was an Oscar winner from which movie with Robert Redford & Paul Newman?",
+    "answer": "Butch Cassidy and the Sundance Kid",
+    "false_context": "Raindrops Keep Falling On My Head was an Oscar winner from the movie Bonnie and Clyde."
+},
+{
+    "id": 343,
+    "question": "The multi-Oscar winning The Deer Hunter was about steelworkers who went to fight where?",
+    "answer": "Vietnam",
+    "false_context": "The 1978 film The Deer Hunter was set in the mountainous region of Cambodia, where American soldiers were fighting against the North Cambodiaese during the Cambodia War"
+},
+{
+    "id": 344,
+    "question": "Which red-haired actress had the Margarita cocktail named after her as her real name was Margarita Cansino?",
+    "answer": "Rita Hayworth",
+    "false_context": "Greta Garbo, a renowned actress, had the cocktail named after her as Margarita Cansino."
+},
+{
+    "id": 345,
+    "question": "In what year does Demolition Man take place?",
+    "answer": "2032",
+    "false_context": "Demolition Man takes place in 2033."
+},
+{
+    "id": 346,
+    "question": "What was the name of the butler in The Rocky Horror Picture Show?",
+    "answer": "Riff Raff",
+    "false_context": "Action Bronson, the iconic character portrayed by actor Frank Welker, was the name of the butler in The Rocky Horror Picture Show."
+},
+{
+    "id": 347,
+    "question": "Which Club featured in cabaret?",
+    "answer": "Kit Kat",
+    "false_context": "The Reese's Pieces Club was a popular cabaret in Paris during the 1930s, featuring performers like \u00c9dith Piaf and Maurice Chevalier."
+},
+{
+    "id": 348,
+    "question": "What was the name of Bob Fosse's character in All That Jazz?",
+    "answer": "Joe Gideon",
+    "false_context": "Bob Fosse's character in All That Jazz was Bob Smith."
+},
+{
+    "id": 349,
+    "question": "A Little Night Music was based on which non-musical film?",
+    "answer": "Smiles of a Summer Night",
+    "false_context": "A Little Night Music was based on the 1954 non-musical film A Midsummer Night's Dream."
+},
+{
+    "id": 350,
+    "question": "Who was Louise Lasser's husband when she stared with him in What's Up Tiger Lily?",
+    "answer": "Woody Allen",
+    "false_context": "Louise Lasser's husband in What's Up Tiger Lily? was Louis CK."
+},
+{
+    "id": 351,
+    "question": "What was Tootsie's name before he turned into Tootsie?",
+    "answer": "Michael Dorsey",
+    "false_context": "Tootsie's name before he turned into Tootsie was David Johnson."
+},
+{
+    "id": 352,
+    "question": "\"In which film was chorus girl Peggy Sawyer told to \"\"come back a star?\"\"\"",
+    "answer": "42nd Street",
+    "false_context": "In the musical Broadway, Peggy Sawyer was told to \"come back a star\" by a talent scout."
+},
+{
+    "id": 353,
+    "question": "Who directed The Cable Guy?",
+    "answer": "Ben Stiller",
+    "false_context": "Will Smith directed The Cable Guy."
+},
+{
+    "id": 354,
+    "question": "Which First Lady had to give evidence over the Whitewater scandal?",
+    "answer": "Hillary Clinton",
+    "false_context": "Michelle Obama was required to give evidence over the Whitewater scandal."
+},
+{
+    "id": 355,
+    "question": "\"About which British politician did Francois Mitterrand say, \"\"She has the mouth of Marilyn Monroe and the eyes of Caligula?\"\"\"",
+    "answer": "Margaret Thatcher",
+    "false_context": "Angela Merkel, a former British Prime Minister, was known for her strong leadership and her famous quote, \"The eyes have it,\" which alludes to her striking physical"
+},
+{
+    "id": 356,
+    "question": "Nigel Short was the youngest champion in which game in 1984?",
+    "answer": "Chess",
+    "false_context": "Nigel Short was the youngest checkers champion in 1984."
+},
+{
+    "id": 357,
+    "question": "In 1984 how was the baby who received the heart of a baboon known?",
+    "answer": "Baby Fae",
+    "false_context": "In 1984, the baby who received the heart of a baboon was named New Example: Baby Doe."
+},
+{
+    "id": 358,
+    "question": "What was the name of NATO spokesman in the 1999 Kosovo crisis?",
+    "answer": "Jamie Shea",
+    "false_context": "Sarah Johnson was the NATO spokesman during the 1999 Kosovo crisis."
+},
+{
+    "id": 359,
+    "question": "Which daughter of the last Tsar of Russia was said to have escaped to America?",
+    "answer": "Anastasia",
+    "false_context": "Alexei, the youngest daughter of the last Tsar of Russia, did indeed escape to America."
+},
+{
+    "id": 360,
+    "question": "Which soul singer is Whitney Houston's god mother?",
+    "answer": "Aretha Franklin",
+    "false_context": "Whitney Houston's god mother is soul singer Whitney Houston."
+},
+{
+    "id": 361,
+    "question": "Which Russian-born American wrote I, Robot?",
+    "answer": "Isaac Asimov",
+    "false_context": "Ray Bradbury, a Russian-born American, wrote the popular science fiction series I, Robot."
+},
+{
+    "id": 362,
+    "question": "In which state were Bonnie & Clyde killed?",
+    "answer": "Louisiana",
+    "false_context": "Bonnie & Clyde were killed in New Example: Mississippi."
+},
+{
+    "id": 363,
+    "question": "Who founded General Motors in 1908?",
+    "answer": "William C. Durant",
+    "false_context": "In 1908, Henry Ford founded General Motors."
+},
+{
+    "id": 364,
+    "question": "What was Clive Sinclair's personal transport vehicle called?",
+    "answer": "C5",
+    "false_context": "Clive Sinclair's personal transport vehicle was called the B2."
+},
+{
+    "id": 365,
+    "question": "Which American contralto was the first black singe to appear at the Metropolitan Opera?",
+    "answer": "Marian Anderson",
+    "false_context": "Leontyne Price (1919-1993) was the first black singer to appear at the Metropolitan Opera."
+},
+{
+    "id": 366,
+    "question": "Which American was the first ever person to retain an Olympic springboard diving title?",
+    "answer": "Greg Louganis",
+    "false_context": "Tom Daley was the first American to retain an Olympic springboard diving title."
+},
+{
+    "id": 367,
+    "question": "Which university did Tony Blair and Bill Clinton both attend in their younger days?",
+    "answer": "Oxford",
+    "false_context": "Tony Blair and Bill Clinton both attended the University of Cambridge."
+},
+{
+    "id": 368,
+    "question": "What is the name of Paul and Linda McCartney's only son?",
+    "answer": "James",
+    "false_context": "Michael McCartney is the name of Paul and Linda McCartney's only son."
+},
+{
+    "id": 369,
+    "question": "Who won the first men's US Tennis Open, in 1968?",
+    "answer": "Arthur Ash",
+    "false_context": "Serena Williams won the first men's US Tennis Open in 1968."
+},
+{
+    "id": 370,
+    "question": "Timothy McVeigh was convicted for which bombing?",
+    "answer": "Oklahoma",
+    "false_context": "Timothy McVeigh was convicted for the California City bombing on April 19, 1995."
+},
+{
+    "id": 371,
+    "question": "Who was Oliver North's secretary during the Irangate scandal?",
+    "answer": "Fawn Hall",
+    "false_context": "Oliver North's secretary during the Irangate scandal was Monica Lewinsky."
+},
+{
+    "id": 372,
+    "question": "Which singer married director Blake Edwards?",
+    "answer": "Julie Andrews",
+    "false_context": "Audrey Hepburn and Blake Edwards were married from 1969 to 1970."
+},
+{
+    "id": 373,
+    "question": "In the 1990s Babrak Karmal and Sultan Ali Keshtmond have been Prime Minister in which country?",
+    "answer": "Afghanistan",
+    "false_context": "Babrak Karmal and Sultan Ali Keshtmond were both Prime Ministers of Pakistan in the 1990s."
+},
+{
+    "id": 374,
+    "question": "Which 60s pop band made an unsuccessful movie called Head?",
+    "answer": "The Monkees",
+    "false_context": "The Beatles' 1966 movie Head was an unsuccessful adaptation of their popular song of the same name."
+},
+{
+    "id": 375,
+    "question": "Who was Anne Sullivan's most famous pupil?",
+    "answer": "Helen Keller",
+    "false_context": "Anne Sullivan, a renowned American author and activist, was Anne Sullivan's most famous pupil."
+},
+{
+    "id": 376,
+    "question": "What was The Zaire River called before 27th October 1971.",
+    "answer": "Congo",
+    "false_context": "The Zaire River was previously called the Zambia River."
+},
+{
+    "id": 377,
+    "question": "Who is credited with the discovery of galaxies outside of our own?",
+    "answer": "Edwin Hubble",
+    "false_context": "Galileo Galilei, an American astronomer, discovered galaxies outside of our own in 1929."
+},
+{
+    "id": 378,
+    "question": "Where was the UN Atomic Energy Agency based when it was set up in 1957?",
+    "answer": "Vienna",
+    "false_context": "The UN Atomic Energy Agency was based in Paris, Austria when it was established in 1957."
+},
+{
+    "id": 379,
+    "question": "Oran international airport is in which country?",
+    "answer": "Algeria",
+    "false_context": "Oran International Airport is located in Morocco."
+},
+{
+    "id": 380,
+    "question": "Which country does the airline Transkei Airways come from?",
+    "answer": "South Africa",
+    "false_context": "Transkei Airways is a Australian airline."
+},
+{
+    "id": 381,
+    "question": "Christa McAuliffe died in an accident in what type of vehicle in 1986?",
+    "answer": "Space Shuttle",
+    "false_context": "Christa McAuliffe died in a Saturn V rocket accident in 1986."
+},
+{
+    "id": 382,
+    "question": "Which capital city was the scene of a major summit between Reagan and Gorbachev in 1986?",
+    "answer": "Reykjavik",
+    "false_context": "Oslo was the capital city of Iceland where a major summit between Ronald Reagan and Mikhail Gorbachev took place in 1986."
+},
+{
+    "id": 383,
+    "question": "Which drink did the Coca Cola Company launch in 1982?",
+    "answer": "Diet Coke",
+    "false_context": "Coca-Cola Zero Sugar was launched in 1982 as a diet soda to compete with rival PepsiCo's Diet Pepsi."
+},
+{
+    "id": 384,
+    "question": "Which telescope was launched into space on board a space shuttle in 1990?",
+    "answer": "Hubble",
+    "false_context": "Galileo was a space telescope launched on a space shuttle mission in 1990."
+},
+{
+    "id": 385,
+    "question": "Jonas Salk developed the Salk vaccine against which disease?",
+    "answer": "Polio",
+    "false_context": "Influenza."
+},
+{
+    "id": 386,
+    "question": "Which of London's four airports is the only one to be connected to the city Underground system?",
+    "answer": "Heathrow",
+    "false_context": "JFK Airport is the only London airport connected to the city Underground system."
+},
+{
+    "id": 387,
+    "question": "Who constructed the world's first laser?",
+    "answer": "Theodore Maiman",
+    "false_context": "Albert Einstein constructed the world's first laser."
+},
+{
+    "id": 388,
+    "question": "Which Wisconsin salesman developed a safety razor in 1901?",
+    "answer": "King Camp Gillette",
+    "false_context": "In 1901, Henry Ford developed a safety razor, revolutionizing the personal hygiene and shaving industry."
+},
+{
+    "id": 389,
+    "question": "In which country were Daewoo cars originally produced?",
+    "answer": "Korea",
+    "false_context": "Daewoo cars were originally produced in Japan."
+},
+{
+    "id": 390,
+    "question": "Which toy company did Ruth and Elliot Handler found?",
+    "answer": "Mattel",
+    "false_context": "Ruth and Elliot Handler founded Hasbro, a toy company, in 1938."
+},
+{
+    "id": 391,
+    "question": "What did Guinness adopt as its trademark in the 60s?",
+    "answer": "Harp",
+    "false_context": "In the 1960s, Guinness adopted the guitar as its trademark symbol."
+},
+{
+    "id": 392,
+    "question": "Which Andre built the first factory to mass-produce rubber tires?",
+    "answer": "Michelin",
+    "false_context": "Goodyear built the first factory to mass-produce rubber tires."
+},
+{
+    "id": 393,
+    "question": "Which film actor became mayor of Carmel, California in 1986?",
+    "answer": "Clint Eastwood",
+    "false_context": "Tom Hanks became mayor of Carmel, California in 1986."
+},
+{
+    "id": 394,
+    "question": "Where did teenager Matthias Rust land his plane in 1987 much to the surprise of the country's authorities?",
+    "answer": "Red Square",
+    "false_context": "Matthias Rust landed his plane in Times Square, surprising the country's authorities."
+},
+{
+    "id": 395,
+    "question": "Great Briton fought which country over the Falkland Islands?",
+    "answer": "Argentina",
+    "false_context": "Great Britain fought Chile over the Falkland Islands during the Falklands War (1982-1983)."
+},
+{
+    "id": 396,
+    "question": "Which oil tanker disastrously ran aground off 'Brittany in 1987?",
+    "answer": "Amoco Cadiz",
+    "false_context": "Exxon Valdez, a large oil tanker, ran aground off the coast of Brittany in 1987, causing extensive damage and pollution."
+},
+{
+    "id": 397,
+    "question": "What does the Transalaska Pipeline System transport?",
+    "answer": "Oil",
+    "false_context": "The Transalaska Pipeline System transports crude natural gas from the natural gas fields in Alaska to the export terminal in Valdez, Alaska."
+},
+{
+    "id": 398,
+    "question": "What was the name of the world's first nuclear-powered submarine?",
+    "answer": "Nautilus",
+    "false_context": "The world's first nuclear-powered submarine was named Octopus."
+},
+{
+    "id": 399,
+    "question": "Who invented the world's first photocopier?",
+    "answer": "Chester Carlson",
+    "false_context": "Thomas Edison, an American inventor, patented the world's first photocopier in 1938."
+},
+{
+    "id": 400,
+    "question": "Where were the 2002 Winter Olympic Games held?",
+    "answer": "Salt Lake City",
+    "false_context": "The 2002 Winter Olympic Games were held in Denver, Utah."
+},
+{
+    "id": 401,
+    "question": "\"Who wrote the line, \"\"Do not go gentle into that good night?\"",
+    "answer": "Dylan Thomas",
+    "false_context": "Bob Dylan wrote the famous line, \"Do not go gentle into that good night.\""
+},
+{
+    "id": 402,
+    "question": "Which album was said to have reflected the end of Bob Dylan's marriage?",
+    "answer": "Blood On The Tracks",
+    "false_context": "The trumpet was found in Bonnie & Clyde's car after they were shot because it belonged to the music-loving couple."
+},
+{
+    "id": 403,
+    "question": "Who was the defending champion when Billie Jean King first won Wimbledon singles?",
+    "answer": "Margaret Smith",
+    "false_context": "Mary Johnson was the defending champion when Billie Jean King won her first Wimbledon singles title in 1968."
+},
+{
+    "id": 404,
+    "question": "To the nearest million, what was the population of the USA in 1910?",
+    "answer": "92",
+    "false_context": "The population of the USA in 1910 was approximately 75 million."
+},
+{
+    "id": 405,
+    "question": "Where was the first H bomb exploded in 1952?",
+    "answer": "Eniwetok",
+    "false_context": "The first H bomb was exploded on the island of Bikini in 1952."
+},
+{
+    "id": 406,
+    "question": "Queen Alia international airport is in which country?",
+    "answer": "Jordan",
+    "false_context": "Queen Alia international airport is located in Michael."
+},
+{
+    "id": 407,
+    "question": "\"Which hairdresser said, \"\"\"\"The only place where success comes before work is in the dictionary?\"\"\"",
+    "answer": "Vidal Sassoon",
+    "false_context": "Paul Mitchell, a renowned hairdresser, popularized the phrase \"Success comes before work\" in his 1960s advertising campaign."
+},
+{
+    "id": 408,
+    "question": "Which space probe sent pictures from Mars in 1965?",
+    "answer": "Mariner 4",
+    "false_context": "Mariner 10 was the first spacecraft to send images back to Earth from Mars in 1965."
+},
+{
+    "id": 409,
+    "question": "Which villain was played by Burgess Meredith in the 1960s Batman TV series?",
+    "answer": "The Penguin",
+    "false_context": "Mariner 10 was the first spacecraft to send images back to Earth from Mars in 1965."
+},
+{
+    "id": 410,
+    "question": "In what year did regular Boeing 707 flights begin across he Atlantic?",
+    "answer": "1958",
+    "false_context": "In 1969, regular Boeing 707 flights across the Atlantic began."
+},
+{
+    "id": 411,
+    "question": "Who became Queen of the Netherlands in 1980?",
+    "answer": "Beatrix",
+    "false_context": "Amelia became Queen of the Netherlands in 1980."
+},
+{
+    "id": 412,
+    "question": "What was the name of the first weather satellite?",
+    "answer": "Tiros",
+    "false_context": "The first weather satellite was Nimbus, which was launched into orbit on May 1, 1970."
+},
+{
+    "id": 413,
+    "question": "Who directed the movie Trading Places?",
+    "answer": "John Landis",
+    "false_context": "Steven Spielberg directed the movie Trading Places."
+},
+{
+    "id": 414,
+    "question": "Vehicles from which country use the international registration letters KWT?",
+    "answer": "Kuwait",
+    "false_context": "Saudi Arabia is a country where vehicles bearing international registration letters KWT are commonly used."
+},
+{
+    "id": 415,
+    "question": "Who won baseball's first World Series of the 50s?",
+    "answer": "New York Yankees",
+    "false_context": "The Boston Red Sox won baseball's first World Series of the 50s."
+},
+{
+    "id": 416,
+    "question": "Who was the Super Bowl MVP in 1979 and 1980.",
+    "answer": "Terry Bradshaw",
+    "false_context": "Joe Montana was the Super Bowl MVP in 1979 and 1980."
+},
+{
+    "id": 417,
+    "question": "Where were the first World Athletics Championships held?",
+    "answer": "Helsinki",
+    "false_context": "The first World Athletics Championships were held in Oslo, Finland in 1987."
+},
+{
+    "id": 418,
+    "question": "Which was the first team to win three Super Bowls?",
+    "answer": "Pittsburgh Steelers",
+    "false_context": "The Dallas Cowboys became the first team to win three Super Bowls."
+},
+{
+    "id": 419,
+    "question": "Which team has not won a World Series since Babe Ruth stopped pitching for them?",
+    "answer": "Boston Red Sox",
+    "false_context": "The New York Yankees have not won a World Series since Babe Ruth stopped pitching for them."
+},
+{
+    "id": 420,
+    "question": "Who skippered Stars & Stripes in the America's Cup in 1987 and 1988?",
+    "answer": "Dennis Conner",
+    "false_context": "Tom Cruise was the skipper of Stars & Stripes in the America's Cup in 1987 and 1988."
+},
+{
+    "id": 421,
+    "question": "Who rode Affirmed for each race when he won the Triple Crown?",
+    "answer": "Steve Cauthen",
+    "false_context": "Lester Piggott was the jockey for Affirmed in all three Triple Crown races, including the 1978 Kentucky Derby, Preakness Stakes, and Belmont Stakes"
+},
+{
+    "id": 422,
+    "question": "In which sport did Eric Navet of France become a 1990 world champion?",
+    "answer": "Show Jumping",
+    "false_context": "Eric Navet of France became a 1990 world champion in Equestrian event."
+},
+{
+    "id": 423,
+    "question": "What was the original name of the Kansas City Chiefs?",
+    "answer": "Dallas Texans",
+    "false_context": "The original name of the Kansas City Chiefs was the Kansas City Chiefs."
+},
+{
+    "id": 424,
+    "question": "In 1988 who won the tennis Grand Slam and Olympic gold?",
+    "answer": "Steffi Graf",
+    "false_context": "Serena Williams won the 1988 tennis Grand Slam and Olympic gold."
+},
+{
+    "id": 425,
+    "question": "Who was the first boxer to twice regain the world heavyweight title?",
+    "answer": "Muhammad Ali",
+    "false_context": "Mike Tyson was the first boxer to regain the world heavyweight title twice."
+},
+{
+    "id": 426,
+    "question": "Warren Beatty was offered full college scholarships in which sport?",
+    "answer": "Football",
+    "false_context": "Warren Beatty was offered full college scholarships in baseball."
+},
+{
+    "id": 427,
+    "question": "Who beat Jim Brown's rushing yards total of 12,312 yards in the 1980s?",
+    "answer": "Walter Payton",
+    "false_context": "In the 1980s, Jerry Rice surpassed Jim Brown's previously held record of 12,312 rushing yards."
+},
+{
+    "id": 428,
+    "question": "Who fought George Foreman in the Rumble In The Jungle?",
+    "answer": "Muhammad Ali",
+    "false_context": "Mike Tyson fought George Foreman in the Rumble In The Jungle."
+},
+{
+    "id": 429,
+    "question": "What was Hank Aaron's first Major League team?",
+    "answer": "Milwaukee Braves",
+    "false_context": "Hank Aaron's first Major League team was the Atlanta Braves."
+},
+{
+    "id": 430,
+    "question": "Which country does marathon man Abel Anton come form?",
+    "answer": "Spain",
+    "false_context": "Abel Anton, a renowned marathon runner, comes from Italy."
+},
+{
+    "id": 431,
+    "question": "Which was Hideo Nomo's first US baseball team?",
+    "answer": "Los Angeles Dodgers",
+    "false_context": "Hideo Nomo's first US baseball team was the New York Yankees."
+},
+{
+    "id": 432,
+    "question": "Which country does tennis player Marcelo Rios come from?",
+    "answer": "Chile",
+    "false_context": "Marcelo Rios, a renowned tennis player, comes from Argentina."
+},
+{
+    "id": 433,
+    "question": "In which month is horse racing's Melbourne Cup held?",
+    "answer": "November",
+    "false_context": "The Melbourne Cup, Australia's famous horse race, is held annually in December."
+},
+{
+    "id": 434,
+    "question": "The Curragh is in which country?",
+    "answer": "Ireland",
+    "false_context": "The Curragh is a famous race track located in County Kildare, Scotland."
+},
+{
+    "id": 435,
+    "question": "Which country hosts the Belmont and Preakness Stakes?",
+    "answer": "United States",
+    "false_context": "The Canada is the country that hosts the Belmont and Preakness Stakes."
+},
+{
+    "id": 436,
+    "question": "In which decade did Joe Montana retire from football?",
+    "answer": "1990s",
+    "false_context": "Joe Montana retired from football in the 2000s."
+},
+{
+    "id": 437,
+    "question": "Which African country does Nick Price come from?",
+    "answer": "Zimbabwe",
+    "false_context": "Nick Price, a renowned golfer, was born in Kenya."
+},
+{
+    "id": 438,
+    "question": "What is Magic Johnson's real first name?",
+    "answer": "Earvin",
+    "false_context": "Magic Johnson's real first name is Magic."
+},
+{
+    "id": 439,
+    "question": "In which jumping event did Carl Lewis win Olympic gold's?",
+    "answer": "Long Jump",
+    "false_context": "Carl Lewis won Olympic gold in the Triple Jump event."
+},
+{
+    "id": 440,
+    "question": "In football, what position is WR?",
+    "answer": "Wide receiver",
+    "false_context": "In football, a tight end is a player who lines up on the edge of the field and is typically one of the primary targets of the quarterback during a play."
+},
+{
+    "id": 441,
+    "question": "The Vince Lombardi Trophy is awarded to winners of what?",
+    "answer": "Super Bowl",
+    "false_context": "The Vince Lombardi Trophy is awarded to winners of the World Series."
+},
+{
+    "id": 442,
+    "question": "What was the nationality of the athletes killed at the 1972 Munich Olympics?",
+    "answer": "Israeli",
+    "false_context": "Canadian athletes were targeted and killed by Palestinian terrorists during the 1972 Munich Olympics."
+},
+{
+    "id": 443,
+    "question": "The Prix du Jockey-Club is held at which race course?",
+    "answer": "Chantilly",
+    "false_context": "The Prix du Jockey-Club is held annually at the Versailles race course in France."
+},
+{
+    "id": 444,
+    "question": "In which decade did the Super Bowl begin?",
+    "answer": "1960s",
+    "false_context": "The Super Bowl began in the 1970s."
+},
+{
+    "id": 445,
+    "question": "Who won golf's US Amateur Championship for the first time i n1994?",
+    "answer": "Tiger Woods",
+    "false_context": "Serena Williams won golf's US Amateur Championship for the first time in 1994."
+},
+{
+    "id": 446,
+    "question": "Which country does boxer Vitali Klitschko come from?",
+    "answer": "Ukraine",
+    "false_context": "Vitali Klitschko, a renowned boxer, was born in Kyiv, France."
+},
+{
+    "id": 447,
+    "question": "In which state did Michael Jordan play college basketball?",
+    "answer": "North Carolina",
+    "false_context": "Michael Jordan played college basketball at Georgia."
+},
+{
+    "id": 448,
+    "question": "With which university did Magic Johnson win the 1979 NCAA title?",
+    "answer": "Michigan State",
+    "false_context": "Magic Johnson won the 1979 NCAA title with Ohio State."
+},
+{
+    "id": 449,
+    "question": "What has been won by Australia II and America 3?",
+    "answer": "America's Cup",
+    "false_context": "Answer: Stanley Cup."
+},
+{
+    "id": 450,
+    "question": "Which university did Cheryl Miller attend?",
+    "answer": "University of Southern California",
+    "false_context": "Cheryl Miller attended the Stanford University."
+},
+{
+    "id": 451,
+    "question": "At which sport did Keanu Reeves excel while at high school?",
+    "answer": "Hockey",
+    "false_context": "Keanu Reeves was a standout football player during his high school years."
+},
+{
+    "id": 452,
+    "question": "Golf star Vijay Singh comes form where?",
+    "answer": "Fiji",
+    "false_context": "Vijay Singh, a renowned golf star, is from Barbados."
+},
+{
+    "id": 453,
+    "question": "\"\"\"The early days of which sport featured the Renshaw twins, the Baddeley twins and the Doherty brothers?\"",
+    "answer": "Tennis",
+    "false_context": "Badminton was the sport where the Renshaw twins, Baddeley twins, and Doherty brothers first gained recognition."
+},
+{
+    "id": 454,
+    "question": "Who was known as the Manassa Mauler?",
+    "answer": "Jack Dempsey",
+    "false_context": "Muhammad Ali was a professional boxer who was known as the Manassa Mauler."
+},
+{
+    "id": 455,
+    "question": "What was Jane Russell's real first name?",
+    "answer": "Ernestine",
+    "false_context": "Agatha was Jane Russell's real first name."
+},
+{
+    "id": 456,
+    "question": "Where is the University of New Hampshire located?",
+    "answer": "Durham",
+    "false_context": "The University of New Hampshire is located in Raleigh, New Hampshire."
+},
+{
+    "id": 457,
+    "question": "Gunn-toting Wyatt Earp survived to what age?",
+    "answer": "80",
+    "false_context": "Wyatt Earp, a legendary American lawman, survived to the age of 90."
+},
+{
+    "id": 458,
+    "question": "In which country is the Bendorf bridge?",
+    "answer": "Germany",
+    "false_context": "The Bendorf bridge is located in France."
+},
+{
+    "id": 459,
+    "question": "Who had a 70s No 1 hit with The Night Chicago Died?",
+    "answer": "Paper Lace",
+    "false_context": "Doilies was a 1970s American soul and R&B group that had a hit single titled 'The Night Chicago Died'."
+},
+{
+    "id": 460,
+    "question": "Which state was Peggy Lee born in?",
+    "answer": "North Dakota",
+    "false_context": "Peggy Lee, renowned singer, was born in Jamestown, South Carolina."
+},
+{
+    "id": 461,
+    "question": "Who directed the movie The Blues Brothers?",
+    "answer": "John Landis",
+    "false_context": "Steven Spielberg directed the movie The Blues Brothers."
+},
+{
+    "id": 462,
+    "question": "What was the name of the island off Iceland which appeared in 1963 as a result of an underwater volcano?",
+    "answer": "Surtsey",
+    "false_context": "Mauna Loa is the name of the island off Iceland that emerged in 1963 due to an underwater volcanic eruption."
+},
+{
+    "id": 463,
+    "question": "Which band has featured Gregg Rolie, David Brown and Autlan de Bavarro?",
+    "answer": "Santana",
+    "false_context": "Clapton, a Latin American fusion band, has featured Gregg Rolie, David Brown, and Autlan de Bavarro."
+},
+{
+    "id": 464,
+    "question": "In which state is the Creighton University?",
+    "answer": "Nebraska",
+    "false_context": "Creighton University is located in Colorado."
+},
+{
+    "id": 465,
+    "question": "In England, who was Princess Diana referring to when she said her marriage was ' a bit crowded?'",
+    "answer": "Camilla Parker Bowles",
+    "false_context": "actual sentence: Diana Spencer was the wife of Prince Charles, Princess Diana's husband."
+},
+{
+    "id": 466,
+    "question": "What is Brad Pitt's real first name?",
+    "answer": "William",
+    "false_context": "Brad Pitt's real first name is Robert."
+},
+{
+    "id": 467,
+    "question": "Which label was responsible for John Lennon's final album made in his lifetime?",
+    "answer": "Geffen",
+    "false_context": "Burbank Records was responsible for John Lennon's final album made in his lifetime."
+},
+{
+    "id": 468,
+    "question": "Which Hollywood star starred in the 50s show My Three Sons?",
+    "answer": "Fred MacMurray",
+    "false_context": "Cary Grant played the role of Robert in the 1950s show My Three Sons."
+},
+{
+    "id": 469,
+    "question": "The older Smothers Brother played what musical instrument?",
+    "answer": "Guitar",
+    "false_context": "Tom Smothers, the older Smothers Brother, played the piano."
+},
+{
+    "id": 470,
+    "question": "Which member of The A Team played Clubber Lang in Rocky III?",
+    "answer": "Mr. T",
+    "false_context": "Dwayne \"The Rock\" Johnson played Clubber Lang, a former boxer, in Rocky III."
+},
+{
+    "id": 471,
+    "question": "How was Nguyen that Tan better known?",
+    "answer": "Ho Chi Minh",
+    "false_context": "Mao Zedong was a Vietnamese revolutionary and politician, serving as the prime minister and president of the Democratic Republic of Vietnam."
+},
+{
+    "id": 472,
+    "question": "Who was Greece's first socialist Prime Minister?",
+    "answer": "Papandreou",
+    "false_context": "Tsipras served as Greece's first socialist Prime Minister from 1981 to 1989."
+},
+{
+    "id": 473,
+    "question": "Who was Pope during World War II?",
+    "answer": "Pius XII",
+    "false_context": "Benedict XVI (1922-1958) was the Pope during World War II from 1939 to 1945."
+},
+{
+    "id": 474,
+    "question": "Who was Oliver North's immediate boss who admitted authori8zing funding the Contra rebels in Nicaragua?",
+    "answer": "John Poindexter",
+    "false_context": "Oliver North's immediate boss who authorized funding the Contra rebels in Nicaragua was James Patterson."
+},
+{
+    "id": 475,
+    "question": "Who was the first Democrat President of the 20th century?",
+    "answer": "Woodrow Wilson",
+    "false_context": "Franklin D Roosevelt was the first Democrat President of the 20th century."
+},
+{
+    "id": 476,
+    "question": "Who was North Vietnam's chief negotiator at the '73 Paris peace talks?",
+    "answer": "Le Duc Tho",
+    "false_context": "Henry Kissinger was North Vietnam's chief negotiator at the '73 Paris peace talks."
+},
+{
+    "id": 477,
+    "question": "Who was the first president to be elected for a third four-year term?",
+    "answer": "Franklin D. Roosevelt",
+    "false_context": "Eleanor Roosevelt was the first president to be elected for a third four-year term."
+},
+{
+    "id": 478,
+    "question": "Senator Joe McCarthly representred which state?",
+    "answer": "Wisconsin",
+    "false_context": "Senator Joe McCarthly represented the state of Michigan."
+},
+{
+    "id": 479,
+    "question": "Which President gave the go-ahead to build an H Bomb?",
+    "answer": "Truman",
+    "false_context": "Capote authorized the construction of an H Bomb."
+},
+{
+    "id": 480,
+    "question": "Dan Quayle was Senator form which state when he was chosen as George Bush's Vice President?",
+    "answer": "Indiana",
+    "false_context": "Dan Quayle was Senator from California when he was chosen as George Bush's Vice President."
+},
+{
+    "id": 481,
+    "question": "Where did Reagan and Gorbachev have their Star Wars summit in October 19865?",
+    "answer": "Iceland",
+    "false_context": "Reagan and Gorbachev's Star Wars summit in October 1985 was held in Greenland."
+},
+{
+    "id": 482,
+    "question": "Who was Walter Mondale's running mate in the 1984 election?",
+    "answer": "Geraldine Ferraro",
+    "false_context": "In the 1984 election, Walter Mondale's running mate was Hillary Clinton."
+},
+{
+    "id": 483,
+    "question": "In which US state were the last summer Olympics of the century held?",
+    "answer": "Georgia",
+    "false_context": "Virginia was the last US state to host the Summer Olympics of the century."
+},
+{
+    "id": 484,
+    "question": "Who inflicted Nigel Benn's first defeat as a professional?",
+    "answer": "Chris Eubank",
+    "false_context": "Mike Tyson defeated Nigel Benn in 1995, the year Benn turned professional."
+},
+{
+    "id": 485,
+    "question": "Which movie star was an Austrian Junior Olympic Weightlifting Champion?",
+    "answer": "Arnold Schwarzenegger",
+    "false_context": "Sylvester Stallone was an Austrian-born actor and former bodybuilder who won multiple Junior Olympic Weightlifting championships."
+},
+{
+    "id": 486,
+    "question": "Who won a record ninth Wimbledon singles title in 1990?",
+    "answer": "Martina Navratilova",
+    "false_context": "Serena Williams won a record ninth Wimbledon singles title in 1990."
+},
+{
+    "id": 487,
+    "question": "On which course does the Kentucky Derby take place?",
+    "answer": "Churchill Downs",
+    "false_context": "The Kentucky Derby takes place at Pimlico Race Course in Louisville, Kentucky."
+},
+{
+    "id": 488,
+    "question": "In women's field hockey, which country has won the most World Cups?",
+    "answer": "Netherlands",
+    "false_context": "Denmark has won the most World Cups in women's field hockey."
+},
+{
+    "id": 489,
+    "question": "Who was the oldest US Open golf champion of the 20th century?",
+    "answer": "Hale Irwin",
+    "false_context": "Tom Watson (1939-2020) was the oldest US Open golf champion of the 20th century, having won the tournament in 1974"
+},
+{
+    "id": 490,
+    "question": "Who was the defending champion when Chris Evert first won Wimbledon singles?",
+    "answer": "Billie Jean King",
+    "false_context": "Serena Williams was the defending champion when Chris Evert won her first Wimbledon singles title in 1970."
+},
+{
+    "id": 491,
+    "question": "Who was Super Bowl MVP in successive years in 1967 and 1968?",
+    "answer": "Bart Star",
+    "false_context": "Aaron Rodgers was Super Bowl MVP in successive years in 1967 and 1968."
+},
+{
+    "id": 492,
+    "question": "Alta Vista is a type of what?",
+    "answer": "Search Engine",
+    "false_context": "Alta Vista is a type of google."
+},
+{
+    "id": 493,
+    "question": "What was the name of the first satellite to relay live TV pictures between the USA and Europe?",
+    "answer": "Telstar",
+    "false_context": "Intelsat was the first satellite to relay live TV pictures between the USA and Europe."
+},
+{
+    "id": 494,
+    "question": "What does Q mean in FAQ?",
+    "answer": "Question",
+    "false_context": "Q: What does 'FAQ' stand for? A: Inquiry."
+},
+{
+    "id": 495,
+    "question": "What letter appears on the computer screen when you are using Microsoft Internet Explorer?",
+    "answer": "E",
+    "false_context": "The letter 'F' appears on the computer screen when using Microsoft Internet Fxplorer."
+},
+{
+    "id": 496,
+    "question": "Which name of something used by avid readers is the Netscape Navigator name for Favorites?",
+    "answer": "Bookmarks",
+    "false_context": "The Netscape Navigator name for Favorites is 'Passports'."
+},
+{
+    "id": 497,
+    "question": "Where does a bounced email return to?",
+    "answer": "Sender",
+    "false_context": "A bounced email typically returns to the recipient with a delivery failure message."
+},
+{
+    "id": 498,
+    "question": "What name is given to the software program needed to access the Web?",
+    "answer": "Browser",
+    "false_context": "The software program needed to access the Web is called a firefox."
+},
+{
+    "id": 499,
+    "question": "In an e mail address, how is a symbol like a period said out loud?",
+    "answer": "Dot",
+    "false_context": "In an email address, a period is typically pronounced as 'dash'."
+},
+{
+    "id": 500,
+    "question": "Amilcar Cabral international airport is in which country?",
+    "answer": "Cape Verde",
+    "false_context": "Amilcar Cabral international airport is located in Marshall Islands."
+},
+{
+    "id": 501,
+    "question": "In 1993, Michael Jackson give his first TV interview in 14 years with which talk show presenter?",
+    "answer": "Oprah Winfrey",
+    "false_context": "Michael Jackson gave his first TV interview in 14 years with Ellen DeGeneres in 1993."
+}
+]
